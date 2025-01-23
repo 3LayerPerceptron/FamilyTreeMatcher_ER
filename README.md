@@ -31,3 +31,8 @@ python3 -m pip install -r requirements.txt
 ```
 python3 freq_parser.py
 ```
+### Step 4: Получение мэтчей
+После шага 3 запустите основной алгоритм, который в формате json выдаст полученные мэтчи.
+```
+python3 script.py
+```
