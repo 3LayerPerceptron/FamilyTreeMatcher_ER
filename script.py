@@ -1,6 +1,8 @@
 import json
-
+import time
+import itertools
 from iuliia import BGN_PCGN
+import multiprocessing as mp
 from Levenshtein import distance
 
 FB_PATH = "./data/fb-friend-names-hse.txt/hse_fb-friend-names-hse.txt"
@@ -42,6 +44,9 @@ def parse_FB_data(path, n_lines):
 class Matcher:
     
     def __init__(self, dataset_a, dataset_b, sieve=None, get_similarity=None, get_match=None):
+        
+        self.mp_flag = False
+        
         self.dataset_a = dataset_a
         self.dataset_b = dataset_b
         
@@ -57,10 +62,10 @@ class Matcher:
         self.delta = 5
 
         self.candidates = {}
-    
-    def sieve(self):
+
+    def sieve(self, data):
         candidates = {}
-        for profile_a in self.dataset_a:
+        for profile_a in data:
             
             if len(self.dataset_a[profile_a][0]) != 2:
                 continue
@@ -68,19 +73,36 @@ class Matcher:
             name_a, surname_a = self.dataset_a[profile_a][0]
 
             for profile_b in self.dataset_b:
-               
+                
                 if len(self.dataset_b[profile_b][0]) != 2:
                     continue
-                
+                    
                 name_b, surname_b = self.dataset_b[profile_b][0]
-                
+                    
                 if name_a[:1].lower() == name_b[:1].lower() and surname_a[:1].lower() == surname_b[:1].lower() and \
                     distance(name_a, name_b) < 2 and distance(surname_a, surname_b) < 2:
                     if profile_a not in candidates:
                         candidates[profile_a] = []
                     candidates[profile_a].append(profile_b)
+            if(self.mp_flag == False):
+                self.candidates = candidates
+        return candidates
+
+    
+    def sieve_mp(self, n_proc):
+        self.mp_flag = True
+        a_size = len(self.dataset_a.values())
         
+        chunks = [ dict(itertools.islice(self.dataset_a.items(), i, i + a_size // n_proc))
+            for i in range(0, a_size, a_size // n_proc)]
+
+        pool = mp.Pool(processes=n_proc)
+        results = pool.map(self.sieve, chunks)
+        pool.close()
+        pool.join()
+        candidates = {key : value for element in results for key, value in element.items()}
         self.candidates = candidates
+        self.mp_flag = False
         return candidates
 
     def levenshtein_simmilarity(self, str_a, str_b):
@@ -141,19 +163,36 @@ class Matcher:
             matches[candidate_a] = {"Person" : name_a, "Match" : name_b, "Id" : id, "Score" : score}
         return matches
 
+
+
 if __name__ == "__main__":
+    
+    start_time = time.time()
+    fb_dataset = parse_FB_data(FB_PATH, 4_429) # total users: 4429
+    vk_dataset = parse_VK_data(VK_PATH, 21_124) # total users: 21124
+    end_time = time.time()
+    print(f"data parsing was finished in: {(end_time - start_time):.2f} seconds")
 
-    fb_dataset = parse_FB_data(FB_PATH, 4429)
-    vk_dataset = parse_VK_data(VK_PATH, 21124)
-
-
+    start_time = time.time()
     matcher = Matcher(fb_dataset, vk_dataset)
-    matcher.sieve()
-    print("Sieve Finished")
+    end_time = time.time()
+    print(f"matcher construction was finished in: {(end_time - start_time):.2f} seconds")
+    
+    start_time = time.time()
+    matcher.sieve_mp(n_proc=4)
+    end_time = time.time()
+
+    print(f"sieving was finished in: {(end_time - start_time):.2f} seconds")
+    
+    start_time = time.time()
     matcher.get_similarity()
-    print("Sim Finished")
+    end_time = time.time()
+    print(f"similarity calculation was finished in: {(end_time - start_time):.2f} seconds")
+    
+    start_time = time.time()
     matched_profiles = matcher.get_match()
-    print("Candidates Matched")
+    end_time = time.time()
+    print(f"profile matching was finished in: {(end_time - start_time):.2f} seconds")
 
     with open("match.json", "w") as outfile: 
         json.dump(matched_profiles, outfile)
