@@ -1,1 +1,2318 @@
-{"100000018298428": {"Person": "Irina Rybina", "Match": "Irina Rybina", "Id": "35978784", "Score": 41.92599655591205}, "100000022545724": {"Person": "Lera Malera", "Match": "Lera Malera", "Id": "3148848", "Score": 10.02876632317843}, "100000023627948": {"Person": "Nikita Divayev", "Match": "Nikita Divaev", "Id": "3458638", "Score": 74.33955407632277}, "100000025460358": {"Person": "Yuriy Belous", "Match": "Yury Belous", "Id": "1613720", "Score": 111.19779248617243}, "100000036275492": {"Person": "Irina Belonosova", "Match": "Irina Belonosova", "Id": "1898070", "Score": 47.35986980039535}, "100000037552354": {"Person": "Alina Lukyanchikova", "Match": "Alina Lukyanchikova", "Id": "11491845", "Score": 21.91369715211399}, "100000042078402": {"Person": "Inka Emelina", "Match": "Inna Emelina", "Id": "3381061", "Score": 3.324619331260607}, "100000052869779": {"Person": "Maria Vladimirskaya", "Match": "Maria Vladimirskaya", "Id": "593449", "Score": 4.693420327974756}, "100000059307026": {"Person": "Sergey Zaitsev", "Match": "Sergey Zaytsev", "Id": "2115174", "Score": 3.9617090713862124}, "100000063351219": {"Person": "Nadezhda Voronkova", "Match": "Nadezhda Voronkova", "Id": "124779", "Score": 62.42014930722829}, "100000083709906": {"Person": "Sergey Tarasov", "Match": "Sergey Tarasov", "Id": "1441849", "Score": 39.40086447254406}, "100000093644143": {"Person": "Tat\u2019yana Borodina", "Match": "Tatyana Borodina", "Id": "2936086", "Score": 11.073212459826806}, "100000115908309": {"Person": "Elisaveta Emelyanova", "Match": "Elizaveta Emelyanova", "Id": "5343626", "Score": 72.89494056671141}, "100000118092916": {"Person": "Olga Volkova", "Match": "Ol\u2019ga Volkova", "Id": "15103534", "Score": 3.131625678516646}, "100000123062212": {"Person": "Alena Chepyzhova", "Match": "Alena Chepyzhova", "Id": "166990248", "Score": 6.748635015533008}, "100000158495955": {"Person": "Mariya Rogacheva", "Match": "Maria Rogacheva", "Id": "44749476", "Score": 7.99691726993092}, "100000163331996": {"Person": "Dmitry Solovyev", "Match": "Dmitry Solovyev", "Id": "1050952", "Score": 303.0722194697959}, "100000176428600": {"Person": "Anton Ivanov", "Match": "Anton Ivanov", "Id": "613096", "Score": 52.80866484196536}, "100000183952921": {"Person": "Alina Kozina", "Match": "Alina Kozina", "Id": "6173688", "Score": 12.787313637936759}, "100000186925458": {"Person": "Anna Surova", "Match": "Anna Surova", "Id": "69434544", "Score": 15.010685226487782}, "100000187069526": {"Person": "Nastya Vihanova", "Match": "Nastya Vikhanova", "Id": "6323020", "Score": 4.440109235406075}, "100000197289985": {"Person": "Svetlana Vasyukova", "Match": "Svetlana Vasyukova", "Id": "165531", "Score": 21.305202586368104}, "100000210336832": {"Person": "Valeria Kiseleva", "Match": "Valeria Kiseleva", "Id": "729673", "Score": 13.707113054910158}, "100000215948307": {"Person": "Anastasia Kiselyova", "Match": "Anastasia Kiselyova", "Id": "1730904", "Score": 33.843742565143245}, "100000221333258": {"Person": "Yulia Posashko", "Match": "Yulya Posashko", "Id": "2428418", "Score": 37.10683572994099}, "100000281268931": {"Person": "Sandro Metreveli", "Match": "Sandro Metreveli", "Id": "165737", "Score": 33.89223375669831}, "100000290710729": {"Person": "Konstantin Kuzhanov", "Match": "Konstantin Kuzhanov", "Id": "13887073", "Score": 58.610163739032444}, "100000293074412": {"Person": "Alexandra Brainis", "Match": "Alexandra Braynis", "Id": "1020145", "Score": 69.0560082338467}, "100000302272382": {"Person": "Ekaterina Tyurina", "Match": "Ekaterina Tyurina", "Id": "51824881", "Score": 10.436109751997964}, "100000391625260": {"Person": "Maxim DReval", "Match": "Maxim Dreval", "Id": "2818029", "Score": 3.489835046411637}, "100000396231309": {"Person": "Sergey Shupletsov", "Match": "Sergey Shupletsov", "Id": "243219", "Score": 4.511638414663583}, "100000409566782": {"Person": "Valeriya Bodunova", "Match": "Valeria Bodunova", "Id": "106060", "Score": 9.410861697484336}, "100000413635524": {"Person": "Evgenia Rastashanskaya", "Match": "Evgenia Rastashanskaya", "Id": "193362216", "Score": 13.15020826010335}, "100000416502121": {"Person": "Ol\u2019ga Kiryushina", "Match": "Olga Kiryushina", "Id": "5708", "Score": 20.016511828745895}, "100000418958784": {"Person": "Igor Gurkov", "Match": "Igor Gurkov", "Id": "1401875", "Score": 24.71940344568257}, "100000431753566": {"Person": "Daria Kosova", "Match": "Darya Kosova", "Id": "454912", "Score": 57.84471695703876}, "100000432357280": {"Person": "Anna Nikitina", "Match": "Anna Nikitina", "Id": "20891908", "Score": 15.86099702984352}, "100000443800983": {"Person": "Veronika Ikaeva", "Match": "Veronika Ikaeva", "Id": "40381", "Score": 41.82601984758132}, "100000456926406": {"Person": "Zoya Perlova", "Match": "Zoya Perlova", "Id": "2869031", "Score": 118.90747839265418}, "100000462947728": {"Person": "Il\u2019ya Vydumkin", "Match": "Ilya Vydumkin", "Id": "456175", "Score": 10.13468645197477}, "100000472655059": {"Person": "Maria Provotorova", "Match": "Maria Provotorova", "Id": "8467642", "Score": 12.651925690062669}, "100000478561027": {"Person": "Alina Tavlueva", "Match": "Alina Tavlueva", "Id": "3644741", "Score": 20.799754700847338}, "100000492327383": {"Person": "Alexander Chernyshkov", "Match": "Alexander Chernyshkov", "Id": "3568962", "Score": 28.393821515287325}, "100000496905482": {"Person": "Dionisio Garsiya", "Match": "Dionisio Garsia", "Id": "4144456", "Score": 5.6551254871898005}, "100000506535259": {"Person": "Alexander Yarovoy", "Match": "Alexander Yarovoy", "Id": "42765574", "Score": 40.352992410511824}, "100000513207908": {"Person": "Lidiya Antonova", "Match": "Lidia Antonova", "Id": "8835928", "Score": 18.54333574487615}, "100000513535373": {"Person": "Alexander Naroditsky", "Match": "Alexander Naroditsky", "Id": "7185167", "Score": 33.43493008629987}, "100000524630354": {"Person": "Alexander Susoev", "Match": "Alexander Susoev", "Id": "420658", "Score": 8.873198758086387}, "100000555901509": {"Person": "Anna Suntsova", "Match": "Anya Suntsova", "Id": "142631090", "Score": 16}, "100000566417471": {"Person": "Nadezhda Tarasova", "Match": "Nadezhda Tarasova", "Id": "63980", "Score": 84.64545692315433}, "100000568985939": {"Person": "Kirill Golubev", "Match": "Kirill Golubev", "Id": "154158788", "Score": 9}, "100000573224460": {"Person": "Natalia Berdnikova", "Match": "Natali Berdnicova", "Id": "1364412", "Score": 4.584043727511165}, "100000574922338": {"Person": "Lev Tret\u2019yakov", "Match": "Lev Tretyakov", "Id": "2867746", "Score": 4.150424616041755}, "100000578763335": {"Person": "Anton Zybin", "Match": "Anton Zybin", "Id": "115098250", "Score": 4.317215416472344}, "100000585720301": {"Person": "Ann Pervushina", "Match": "Anna Pervushina", "Id": "258435", "Score": 318.86362322118083}, "100000589951254": {"Person": "Kseniya Katurova", "Match": "Ksenia Katurova", "Id": "23399811", "Score": 62.52003343954329}, "100000637299128": {"Person": "Evgeniya Utkina", "Match": "Evgenia Utkina", "Id": "640674", "Score": 39.51590017073892}, "100000670244619": {"Person": "Natalia Matveeva", "Match": "Natalya Matveeva", "Id": "930796", "Score": 14.416978239148245}, "100000670898180": {"Person": "Anna Kozlovskaya", "Match": "Anna Kozlovskaya", "Id": "27407", "Score": 33.981562052950665}, "100000675411609": {"Person": "Sergey Deyneka", "Match": "Sergey Deyneka", "Id": "1841804", "Score": 90.22771588794485}, "100000698458894": {"Person": "Anastasia Krymskaya", "Match": "Anastasia Krymskaya", "Id": "2690260", "Score": 18.43398509073301}, "100000701057533": {"Person": "Max Bobrov", "Match": "Max Bobrov", "Id": "1209366", "Score": 49.12722321558897}, "100000704965209": {"Person": "Yana Parshutina", "Match": "Yana Parshutina", "Id": "3540065", "Score": 20.20774696199345}, "100000715050614": {"Person": "Evgeny Shevchenko", "Match": "Evgeny Shevchenko", "Id": "58894823", "Score": 29.59384549064564}, "100000716153916": {"Person": "Sergey Andriyenko", "Match": "Sergey Andrienko", "Id": "1557495", "Score": 6.563299643719676}, "100000723764986": {"Person": "Elena Kirsanova", "Match": "Elena Kirsanova", "Id": "3608588", "Score": 12.149901044374896}, "100000735438113": {"Person": "Nika Denisova", "Match": "Nika Denisova", "Id": "17097306", "Score": 35.31429274804874}, "100000763263717": {"Person": "Daniil Mashtakov", "Match": "Daniil Mashtakov", "Id": "2109755", "Score": 71.71127970479644}, "100000769981934": {"Person": "Irina Bamzurova", "Match": "Irina Bamzurova", "Id": "625483", "Score": 16.589236495571182}, "100000773935138": {"Person": "Lyolya Lyolkovna", "Match": "Lyolya Lyolkovna", "Id": "48161924", "Score": 9.831253739728593}, "100000777158134": {"Person": "Antonina Guseva", "Match": "Antonina Guseva", "Id": "225570", "Score": 17.35955544473858}, "100000783608378": {"Person": "Kristina Anisenko", "Match": "Kristina Anisenko", "Id": "9028071", "Score": 20.910470180099995}, "100000787593896": {"Person": "Darya Selivanova", "Match": "Darya Selivanova", "Id": "92356524", "Score": 8.863157159054373}, "100000800005967": {"Person": "Dzhamilya Shaykhutdinova", "Match": "Dzhamilya Shaykhutdinova", "Id": "925552", "Score": 46.385612355779166}, "100000809460817": {"Person": "Natal\u2019ya Maloshonok", "Match": "Natalya Maloshonok", "Id": "613843", "Score": 16.055052838780036}, "100000810638784": {"Person": "Alexey Zarubin", "Match": "Alexey Zarubin", "Id": "3816530", "Score": 24.95011846031476}, "100000824392400": {"Person": "Ekaterina Andreyanova", "Match": "Ekaterina Andreyanova", "Id": "1019034", "Score": 21.518106034656928}, "100000836334842": {"Person": "Alexandra Kuzovkova", "Match": "Alexandra Kuzovkova", "Id": "2748024", "Score": 21.769842385141082}, "100000839375499": {"Person": "Natalya Meschanova", "Match": "Natalya Meschanova", "Id": "165670339", "Score": 7.121617513157294}, "100000850573349": {"Person": "Emiliya Lityagina", "Match": "Emilia Lityagina", "Id": "21353447", "Score": 5.453718944144507}, "100000862592097": {"Person": "Denis Kuleshov", "Match": "Denis Kuleshov", "Id": "10963279", "Score": 24.954617550461453}, "100000874448053": {"Person": "Yana Grishkova", "Match": "Yana Grishkova", "Id": "87323009", "Score": 7.781441110295108}, "100000877423965": {"Person": "Kira Perevoznikova", "Match": "Kira Perevoznikova", "Id": "145510", "Score": 79.05381645253767}, "100000908045760": {"Person": "Oleg Askarov", "Match": "Oleg Askarov", "Id": "57100134", "Score": 4.4832107296628525}, "100000924678865": {"Person": "Ilya Nikanorov", "Match": "Ilya Nikanorov", "Id": "2745974", "Score": 98.88651041583176}, "100000938082383": {"Person": "Zhanna Bogdashina", "Match": "Zhanna Bogdashina", "Id": "18237553", "Score": 12.393936862646319}, "100000941891635": {"Person": "Elena Melamed", "Match": "Elena Melamed", "Id": "2559885", "Score": 15.382007024217923}, "100000956044523": {"Person": "Sergey Limonov", "Match": "Sergey Limonov", "Id": "16546839", "Score": 27.098514910988463}, "100000961927444": {"Person": "Vyacheslav Musolov", "Match": "Vyacheslav Musolov", "Id": "10814084", "Score": 23.44996578581965}, "100000962266290": {"Person": "Evgeny Dubinin", "Match": "Evgeny Dubinin", "Id": "16067653", "Score": 5.8638847974045545}, "100000965114009": {"Person": "Elizaveta Sokolova", "Match": "Elizaveta Sokolova", "Id": "2947485", "Score": 11.689747294004748}, "100000968848198": {"Person": "Yuriy Sozonov", "Match": "Yury Sozonov", "Id": "7267276", "Score": 39.624498239536116}, "100000974113079": {"Person": "Darya Krasilnikova", "Match": "Darya Krasilnikova", "Id": "4691996", "Score": 3.5798608091766044}, "100000981154075": {"Person": "Yulia Denshina", "Match": "Yulia Denshina", "Id": "1933345", "Score": 18.86192034306332}, "100000996697820": {"Person": "Margarita Mikhailova", "Match": "Margarita Mikhaylova", "Id": "2368090", "Score": 131.81941841769452}, "100000999680758": {"Person": "Ol\u2019ga Gorbacheva", "Match": "Olga Gorbacheva", "Id": "14928711", "Score": 16.91837034740077}, "100001033734352": {"Person": "Natalia Chernova", "Match": "Natalya Chernova", "Id": "4923938", "Score": 46.9890127887655}, "100001034352904": {"Person": "Anastasiya Shubenkova", "Match": "Anastasia Shubenkova", "Id": "52979657", "Score": 15.526215259894641}, "100001039824827": {"Person": "Igor Bashurov", "Match": "Igor Bashurov", "Id": "2223897", "Score": 131.52368670254552}, "100001043386282": {"Person": "Mikhail Rubin", "Match": "Mikhail Rubin", "Id": "2497976", "Score": 35.769645535092934}, "100001048233575": {"Person": "Yan Oskin", "Match": "Yan Oskin", "Id": "959448", "Score": 65.29382075978286}, "100001073228952": {"Person": "Ksenia Gagay", "Match": "Ksenia Gagay", "Id": "1141234", "Score": 30.306533446767812}, "100001075008554": {"Person": "Kirill Artemov", "Match": "Kirill Artemov", "Id": "10705584", "Score": 6.829263381831428}, "100001080838217": {"Person": "Vadim Grishchenko", "Match": "Vadim Grischenko", "Id": "2263783", "Score": 67.90746969615556}, "100001084504185": {"Person": "Vsevolod Bel\u2019chenko", "Match": "Vsevolod Belchenko", "Id": "106948981", "Score": 5.022217568088679}, "100001086558155": {"Person": "Danila Melnikov", "Match": "Danila Melnikov", "Id": "653186", "Score": 19.23480502294479}, "100001089122619": {"Person": "Marina Aliverdieva", "Match": "Marina Aliverdieva", "Id": "665387", "Score": 23.780228050655325}, "100001096370900": {"Person": "Timur Egorov", "Match": "Timur Egorov", "Id": "17105767", "Score": 4.675432993777685}, "100001107253922": {"Person": "Nadezhda Obukhova", "Match": "Nadezhda Obukhova", "Id": "134415", "Score": 28.84150867401153}, "100001111395778": {"Person": "Anya Chemrova", "Match": "Anya Chemrova", "Id": "9063477", "Score": 6.3574171083159605}, "100001114321351": {"Person": "Vitaliy Antipov", "Match": "Vitaly Antipov", "Id": "5360314", "Score": 8.181674236247169}, "100001116087976": {"Person": "Dmitri Elkov", "Match": "Dmitry Elkov", "Id": "8443369", "Score": 13.217198111364524}, "100001146828451": {"Person": "Sergey Ilupin", "Match": "Sergey Ilupin", "Id": "44252918", "Score": 62.09968816011982}, "100001152091084": {"Person": "Ekaterina Sharmanova", "Match": "Ekaterina Sharmanova", "Id": "21177920", "Score": 7.107019335654801}, "100001160681360": {"Person": "Lyusya Malinka", "Match": "Lyusya Malinka", "Id": "13546224", "Score": 16.054331543454033}, "100001167789149": {"Person": "Arseniy Gonchukov", "Match": "Arseny Gonchukov", "Id": "1357544", "Score": 116.45194176761437}, "100001189411705": {"Person": "Aida Gubaidullina", "Match": "Aida Gubaydullina", "Id": "303695", "Score": 47.80443406952327}, "100001209230398": {"Person": "Vitaliy Ryzhkov", "Match": "Vitaly Ryzhkov", "Id": "5754488", "Score": 3.617969978745512}, "100001215633989": {"Person": "Tatyanka Kotok", "Match": "Tatyana Kotok", "Id": "2429296", "Score": 12.41002526666661}, "100001216750907": {"Person": "Lyuba Petrova", "Match": "Lyuba Petrova", "Id": "5806589", "Score": 9.800802004086924}, "100001234390625": {"Person": "Andrey Tarutin", "Match": "Andrey Tarutin", "Id": "2627565", "Score": 4}, "100001239266339": {"Person": "Daria Surzhan", "Match": "Darya Surzhan", "Id": "153844435", "Score": 6.277043913652214}, "100001240084400": {"Person": "Viktoriya Kuznetsova", "Match": "Viktoria Kuznetsova", "Id": "82578063", "Score": 11.141702010529015}, "100001262032753": {"Person": "Andrey Dzuba", "Match": "Andrey Dzyuba", "Id": "384476", "Score": 162.58699596253746}, "100001273944580": {"Person": "Roman Pyatin", "Match": "Roma Pyatin", "Id": "20552497", "Score": 63.7670220755289}, "100001300621275": {"Person": "Viacheslav Lavrentyev", "Match": "Vyacheslav Lavrentyev", "Id": "3141732", "Score": 37.21712819124859}, "100001305197724": {"Person": "Elena Vakulenko", "Match": "Elena Vakulenko", "Id": "816711", "Score": 37.18614669468581}, "100001313784841": {"Person": "Anastasia Malykh", "Match": "Anastasia Malykh", "Id": "22160728", "Score": 26.50300606956585}, "100001344959226": {"Person": "Vera Abelinskayte", "Match": "Vera Abelinskayte", "Id": "2159411", "Score": 93.70667106860209}, "100001346053798": {"Person": "Vlada Chernova", "Match": "Vlada Chernova", "Id": "1778546", "Score": 14.899445674611611}, "100001346097974": {"Person": "Victoria Bessonova", "Match": "Viktoria Bessonova", "Id": "135331692", "Score": 15.526193572028715}, "100001346620218": {"Person": "Alexandra Andrianova", "Match": "Alexandra Andrianova", "Id": "10337544", "Score": 8.233675426542998}, "100001349190514": {"Person": "Nadya Glagoleva", "Match": "Nadia Glagoleva", "Id": "154898410", "Score": 3.286481693886132}, "100001352422499": {"Person": "Evgeny Nekryukov", "Match": "Evgeny Nekryukov", "Id": "2680097", "Score": 4.111357047849664}, "100001365463000": {"Person": "Armen Tsaturov", "Match": "Armen Tsaturov", "Id": "80810701", "Score": 19.464269516003906}, "100001389203487": {"Person": "Kira Chernysheva", "Match": "Kira Chernysheva", "Id": "3586259", "Score": 10.807492416635062}, "100001397650155": {"Person": "Yana Lupandina", "Match": "Yana Lupandina", "Id": "9628473", "Score": 13.605818944046998}, "100001402424346": {"Person": "Egor Polyakov", "Match": "Egor Polyakov", "Id": "4518395", "Score": 9.589913722665877}, "100001402618196": {"Person": "Ivan Shidlovskiy", "Match": "Ivan Shidlovsky", "Id": "19754495", "Score": 3.63835747235466}, "100001409831431": {"Person": "Igor Bartashov", "Match": "Igor Bartashov", "Id": "7487262", "Score": 7.438817319112442}, "100001411879211": {"Person": "Dar\u2019ya Nikiforova", "Match": "Darya Nikiforova", "Id": "23174166", "Score": 19.941941746598896}, "100001414063942": {"Person": "Alisa Luzgina", "Match": "Alisa Luzgina", "Id": "137406174", "Score": 30.618930200761866}, "100001436125834": {"Person": "Sasha Shantalova", "Match": "Sasha Shantalova", "Id": "52059843", "Score": 17.08624486835714}, "100001449864004": {"Person": "Nikolai Petrov", "Match": "Nikolay Petrov", "Id": "16492245", "Score": 7.943273985231604}, "100001457506968": {"Person": "Olga Bogolubova", "Match": "Olga Bogolyubova", "Id": "92577190", "Score": 5.062447652669004}, "100001476408990": {"Person": "Olga Elkina", "Match": "Olga Elkina", "Id": "3821624", "Score": 28.489656930748257}, "100001479802623": {"Person": "Marusyan Vatrushkina", "Match": "Marusyan Vatrushkina", "Id": "90614886", "Score": 12.072346604530427}, "100001482111340": {"Person": "Dasha Malyutina", "Match": "Dasha Malyutina", "Id": "1537794", "Score": 19.183670182023068}, "100001489163319": {"Person": "Polina Tyuts", "Match": "Polina Tyuts", "Id": "985847", "Score": 20.121205498183134}, "100001489207432": {"Person": "Tat\u2019yana Spasskaya", "Match": "Tatyana Spasskaya", "Id": "56844050", "Score": 3.832606971738313}, "100001493374275": {"Person": "Irina Sachkova", "Match": "Irina Sachkova", "Id": "825400", "Score": 9.199189714410775}, "100001501209480": {"Person": "Anna Purna", "Match": "Anna Purna", "Id": "16921495", "Score": 4.221784779577135}, "100001518678186": {"Person": "Roman Botov", "Match": "Roman Botov", "Id": "3562568", "Score": 4}, "100001520487156": {"Person": "Yuriy Pavlov", "Match": "Yury Pavlov", "Id": "5220231", "Score": 7.547169689396438}, "100001521436893": {"Person": "Mikhail Mel\u2019nikov", "Match": "Mikhail Melnikov", "Id": "811366", "Score": 10.053576150076001}, "100001538665849": {"Person": "Anastasiya Fedorova", "Match": "Anastasia Fedorova", "Id": "717901", "Score": 14.935040504160996}, "100001556835874": {"Person": "Maxim Lunev", "Match": "Maxim Lunev", "Id": "767870", "Score": 28.029620576118102}, "100001575871473": {"Person": "Roman Bukh", "Match": "Roman Bukh", "Id": "141636", "Score": 63.015653209985494}, "100001608274677": {"Person": "Kseniya Kashpur", "Match": "Ksenia Kashpur", "Id": "7319803", "Score": 27.42619720863708}, "100001609965854": {"Person": "Anna Lapshova", "Match": "Anna Lapshova", "Id": "66895", "Score": 59.60328461732128}, "100001612797282": {"Person": "Maria Tarasova", "Match": "Maria Tarasova", "Id": "11423510", "Score": 5.241883210294121}, "100001631763723": {"Person": "Anna Sivakova", "Match": "Anna Sivakova", "Id": "3188796", "Score": 19.915896960536188}, "100001633259033": {"Person": "Irina Mastyaeva", "Match": "Irina Mastyaeva", "Id": "6345189", "Score": 19.92346058828225}, "100001638794314": {"Person": "Yana Kozlova", "Match": "Yana Kozlova", "Id": "24148276", "Score": 19.26656023581749}, "100001641225821": {"Person": "Svetlana Andreeva", "Match": "Svetlana Andreeva", "Id": "12824325", "Score": 6.2110489904892585}, "100001652679480": {"Person": "Igor\u2019 Ponomarev", "Match": "Igor Ponomarev", "Id": "454721", "Score": 14.18729934236425}, "100001655200801": {"Person": "Anna Reznikova", "Match": "Anya Reznikova", "Id": "1209929", "Score": 17.2016847885207}, "100001660990051": {"Person": "Olga Avedova", "Match": "Olga Avedova", "Id": "13432847", "Score": 3.8746452088987895}, "100001664229070": {"Person": "Marina Fadeeva", "Match": "Marina Fadeeva", "Id": "77916530", "Score": 32.202644060497136}, "100001686781220": {"Person": "Alisa Abaeva", "Match": "Alisa Abaeva", "Id": "3287876", "Score": 4.0478444150206645}, "100001695582120": {"Person": "Milyausha Sirazetdinova", "Match": "Milyausha Sirazetdinova", "Id": "8851122", "Score": 32.00137600280311}, "100001720277387": {"Person": "Maxim Babaev", "Match": "Maxim Babaev", "Id": "2224210", "Score": 78.5798235931419}, "100001729835046": {"Person": "Ivan Lavrentiev", "Match": "Ivan Lavrentyev", "Id": "380902", "Score": 23.743165940704145}, "100001735299023": {"Person": "Alexey Pronin", "Match": "Alexey Pronin", "Id": "893865", "Score": 77.07341880975349}, "100001742804045": {"Person": "Viktor Shorzhin", "Match": "Viktor Shorzhin", "Id": "916288", "Score": 21.63283517591186}, "100001744692233": {"Person": "Andrey Moysenko", "Match": "Andrey Moysenko", "Id": "1690030", "Score": 18.63247539029818}, "100001744768890": {"Person": "Dennis Koudryavtsev", "Match": "Denis Kudryavtsev", "Id": "3056995", "Score": 4.65620722389904}, "100001747277412": {"Person": "Andrey Braginskiy", "Match": "Andrey Braginsky", "Id": "2245649", "Score": 63.76870227995449}, "100001751022393": {"Person": "Daria Solovieva", "Match": "Darya Solovyeva", "Id": "3802959", "Score": 4.65959687804379}, "100001752437231": {"Person": "Azat Khalilov", "Match": "Azat Khalilov", "Id": "2651540", "Score": 9.134897369588742}, "100001772312152": {"Person": "Yuliya Dement\u2019yeva", "Match": "Yulia Dementyeva", "Id": "8540200", "Score": 4.344466610665136}, "100001778086173": {"Person": "Sergey Tsarev", "Match": "Sergey Tsarev", "Id": "81607584", "Score": 13.522471113065693}, "100001778615067": {"Person": "Olesya Reztsova", "Match": "Olesya Reztsova", "Id": "2843087", "Score": 22.175500307155996}, "100001779334165": {"Person": "Andrey Leykin", "Match": "Andrey Leykin", "Id": "196165", "Score": 44.025170455538344}, "100001800360126": {"Person": "Amalia Zatari", "Match": "Amalia Zatari", "Id": "7286457", "Score": 28.52721557445566}, "100001803007332": {"Person": "Roman Belevsky", "Match": "Roman Belevsky", "Id": "304672", "Score": 15.957513953035555}, "100001803726471": {"Person": "Anna Tolstykh", "Match": "Anya Tolstykh", "Id": "720208", "Score": 49.23592087647494}, "100001806300272": {"Person": "Tatiana Novikova", "Match": "Tatyana Novikova", "Id": "7302669", "Score": 9.909482075806817}, "100001813637195": {"Person": "Ksenia Azhevskaya", "Match": "Ksenia Azhevskaya", "Id": "2588215", "Score": 42.16377067083172}, "100001825812349": {"Person": "Regina Resheteeva", "Match": "Regina Resheteeva", "Id": "3501402", "Score": 20.67291205931999}, "100001829835354": {"Person": "Ivan Shinov", "Match": "Ivan Shinov", "Id": "2956583", "Score": 17.016498651547185}, "100001835229713": {"Person": "Anastasiya Kalashnikova", "Match": "Anastasia Kalashnikova", "Id": "182683417", "Score": 3.2923763418134806}, "100001839760658": {"Person": "Anastasiya Sal\u2019nikova", "Match": "Anastasia Salnikova", "Id": "201154", "Score": 23.13945120110848}, "100001851886698": {"Person": "Olga Grebenyuk", "Match": "Olya Grebenyuk", "Id": "1352018", "Score": 16.646817862184914}, "100001854191145": {"Person": "Veniamin Andryushchenko", "Match": "Veniamin Andryuschenko", "Id": "1780424", "Score": 16.230236768343747}, "100001874214592": {"Person": "Grigoriy Seleznev", "Match": "Grigory Seleznev", "Id": "2885223", "Score": 23.621619115084812}, "100001880993746": {"Person": "Yulya Filatova", "Match": "Yulya Filatova", "Id": "848879", "Score": 128.80484246028223}, "100001894374063": {"Person": "Roman Desyatov", "Match": "Roman Desyatov", "Id": "226336", "Score": 10.060389401819084}, "100001927899542": {"Person": "Marat Fayzullin", "Match": "Marat Fayzullin", "Id": "2545693", "Score": 35.643005764747485}, "100001929934579": {"Person": "Anton Repnikov", "Match": "Anton Repnikov", "Id": "142286", "Score": 59.85137723653958}, "100001933883605": {"Person": "Ekaterina Samedova", "Match": "Ekaterina Samedova", "Id": "39862754", "Score": 7.127352737770563}, "100001952926654": {"Person": "Vadim Maslyayev", "Match": "Vadim Maslyaev", "Id": "7153121", "Score": 13.323475516109799}, "100001976166580": {"Person": "Anna Vybornova", "Match": "Anna Vybornova", "Id": "5741435", "Score": 43.935264057617395}, "100001993214016": {"Person": "Smart Step", "Match": "Smart Step", "Id": "102415775", "Score": 52.790321456177594}, "100001998222306": {"Person": "Mikhail Akulov", "Match": "Mikhail Akulov", "Id": "6907958", "Score": 3.894481178712708}, "100002028631305": {"Person": "Anton Bozhko", "Match": "Anton Bozhko", "Id": "545704", "Score": 14.463989019688032}, "100002039121102": {"Person": "Galina Alimova", "Match": "Galina Alimova", "Id": "1858432", "Score": 16.843647852529045}, "100002040111631": {"Person": "Vitovt Kopitok", "Match": "Vitovt Kopytok", "Id": "26518695", "Score": 14.432394909750155}, "100002048923643": {"Person": "Sergey Vasilyev", "Match": "Sergey Vasilyev", "Id": "66563805", "Score": 5.092443538236795}, "100002084262245": {"Person": "Anna Lazareva", "Match": "Anna Lazareva", "Id": "16186888", "Score": 16.12421728839583}, "100002085335310": {"Person": "Alexander Mishura", "Match": "Alexander Mishura", "Id": "1553210", "Score": 23.984321726688535}, "100002097909465": {"Person": "Sergey Belyayev", "Match": "Sergey Belyaev", "Id": "33876345", "Score": 27.257526873586325}, "100002100266669": {"Person": "Vladimir Shvedov", "Match": "Vladimir Shvedov", "Id": "18555285", "Score": 28.413194266618518}, "100002104115271": {"Person": "Snezhana Ionova", "Match": "Snezhana Ionova", "Id": "25432678", "Score": 10.964147141095438}, "100002118579200": {"Person": "Sergey Staroverov", "Match": "Sergey Staroverov", "Id": "1633200", "Score": 13.578940122653968}, "100002120957330": {"Person": "Uliana Curie", "Match": "Uliana Curie", "Id": "83954010", "Score": 21.120046250621037}, "100002127570236": {"Person": "Yuriy Sergeyev", "Match": "Yury Sergeev", "Id": "9682268", "Score": 6.037954061686732}, "100002129441151": {"Person": "Ramil\u2019 Alimov", "Match": "Ramil Alimov", "Id": "152559446", "Score": 20.146350134856657}, "100002148763161": {"Person": "Vera Zinchenko", "Match": "Vera Zinchenko", "Id": "152617231", "Score": 25.092001430833612}, "100002151726378": {"Person": "Anton Kolesnikov", "Match": "Anton Kolesnikov", "Id": "16933941", "Score": 15.953022667409337}, "100002186401263": {"Person": "Tatanka Iyotake", "Match": "Tatanka Iyotake", "Id": "1273487", "Score": 7.40401288301804}, "100002192821400": {"Person": "Irina Merts", "Match": "Irina Merts", "Id": "918487", "Score": 116.56923678082958}, "100002199444381": {"Person": "Dar\u2019ya Zheleznyakova", "Match": "Darya Zheleznyakova", "Id": "127114", "Score": 68.8838649446836}, "100002208087347": {"Person": "Dariya Sageeva", "Match": "Daria Sageeva", "Id": "196707637", "Score": 3.9075189908846215}, "100002248512213": {"Person": "Ira Meletova", "Match": "Ira Meletova", "Id": "818334", "Score": 68.73324486537956}, "100002255117111": {"Person": "Elena Kashirskaya", "Match": "Elena Kashirskaya", "Id": "1672822", "Score": 21.171435761029585}, "100002266343819": {"Person": "Polina Vasilenko", "Match": "Polina Vasilenko", "Id": "12525063", "Score": 3.1868747306890777}, "100002274778453": {"Person": "Miroslav Kosar", "Match": "Miroslav Kosar", "Id": "1144084", "Score": 19.007645403397355}, "100002299541560": {"Person": "Maria Vaisman", "Match": "Maria Vaysman", "Id": "53704224", "Score": 8.818102099264944}, "100002327563720": {"Person": "Natalia berezovaya", "Match": "Natalya Berezovaya", "Id": "15661321", "Score": 7.240299182149355}, "100002329288642": {"Person": "Nina Buchina", "Match": "Nina Buchina", "Id": "18462180", "Score": 17.751765306377983}, "100002329393414": {"Person": "Dmitry Davidyak", "Match": "Dmitry Davidyak", "Id": "44150831", "Score": 7.370764950780453}, "100002356595756": {"Person": "Dmitry Ukraintsev", "Match": "Dmitry Ukraintsev", "Id": "157971", "Score": 13.286904199243503}, "100002359475933": {"Person": "Vladimir Neveykin", "Match": "Vladimir Neveykin", "Id": "83194932", "Score": 23.36572413465016}, "100002369555878": {"Person": "Katerina Sorokovaya", "Match": "Katerina Sorokovaya", "Id": "1489802", "Score": 59.35097678930199}, "100002369787918": {"Person": "Yura Reizer", "Match": "Yury Reyzer", "Id": "1147237", "Score": 116.56674872796205}, "100002389808651": {"Person": "Vladimir Salnikov", "Match": "Vladimir Salnikov", "Id": "16744503", "Score": 3.187137247683139}, "100002397584579": {"Person": "Anna Dmitrieva", "Match": "Anya Dmitrieva", "Id": "265434", "Score": 26.703341127837074}, "100002406563166": {"Person": "Maxim Matsarin", "Match": "Maxim Matsarin", "Id": "1659687", "Score": 19.540358941856805}, "100002451954136": {"Person": "Vlad Kondrashov", "Match": "Vlad Kondrashov", "Id": "23331259", "Score": 12.044784212549896}, "100002470380108": {"Person": "Elena Ulmasova", "Match": "Elena Ulmasova", "Id": "1876941", "Score": 55.969872370796274}, "100002508170253": {"Person": "Alisa Nikitina", "Match": "Alisa Nikitina", "Id": "32100986", "Score": 17.824184587158356}, "100002535335955": {"Person": "Nikolay Saperov", "Match": "Nikolay Saperov", "Id": "2881398", "Score": 3.747748521438427}, "100002596356441": {"Person": "Anna Danielyan", "Match": "Anna Danielyan", "Id": "2897340", "Score": 76.49581388296559}, "100002652443989": {"Person": "Dmitriy Kazakov", "Match": "Dmitry Kazakov", "Id": "2534726", "Score": 10.194691450201418}, "100002658896518": {"Person": "Kseniya Fedyukina", "Match": "Ksenia Fedyukina", "Id": "52515526", "Score": 10.733938812994612}, "100002662093861": {"Person": "Anita Moiseeva", "Match": "Anita Moiseeva", "Id": "5952822", "Score": 42.284249723476826}, "100002712572085": {"Person": "Alexey Kalinin", "Match": "Alexey Kalinin", "Id": "172421773", "Score": 10.28982906234086}, "100002715109835": {"Person": "Andrey Lisitsyn", "Match": "Andrey Lisitsyn", "Id": "40293855", "Score": 4.104133461521473}, "100002768774562": {"Person": "Anastasia Volkova", "Match": "Anastasia Volkova", "Id": "1924087", "Score": 16.004038877149956}, "100002785511190": {"Person": "Platon Vydumkin", "Match": "Platon Vydumkin", "Id": "2725699", "Score": 4.859185024785173}, "100002790496850": {"Person": "Ivan Kamyshev", "Match": "Ivan Kamyshev", "Id": "3339645", "Score": 25.013229309863394}, "100002831065710": {"Person": "Daria Butareva", "Match": "Darya Butareva", "Id": "173309284", "Score": 6.225818748125877}, "100002914877916": {"Person": "Dina Malahova", "Match": "Dina Malakhova", "Id": "3808891", "Score": 7.9798573325008935}, "100002943820133": {"Person": "Askar Valitov", "Match": "Askar Valitov", "Id": "116101829", "Score": 4.552934979420265}, "100002947588909": {"Person": "Tanya Derbikova", "Match": "Tanya Derbikova", "Id": "7797147", "Score": 36.855663882973545}, "100002991805515": {"Person": "Daniil Chernyak", "Match": "Daniil Chernyak", "Id": "61288192", "Score": 6.216156661551282}, "100003007808052": {"Person": "Sergey Berdyshev", "Match": "Sergey Berdyshev", "Id": "16068749", "Score": 10.243597265320657}, "100003101550119": {"Person": "Alexey Markov", "Match": "Alexey Markov", "Id": "817812", "Score": 4.398994579183656}, "100003124652486": {"Person": "Nadezhda Savina", "Match": "Nadezhda Savina", "Id": "13414428", "Score": 11.120421626465907}, "100003181367168": {"Person": "Elena Mitrokhina", "Match": "Elena Mitrokhina", "Id": "854429", "Score": 40.48260958576638}, "100003182331902": {"Person": "Alexey Tatarnikov", "Match": "Alexey Tatarnikov", "Id": "31095432", "Score": 4}, "100003193772390": {"Person": "Alexandr Romanov", "Match": "Alexander Romanov", "Id": "65228082", "Score": 14.985991563971183}, "100003257614623": {"Person": "Kirill Kolotovkin", "Match": "Kirill Kolotovkin", "Id": "3225264", "Score": 9.749482166281771}, "100003257857768": {"Person": "Maxim Savenko", "Match": "Maxim Savenko", "Id": "131660759", "Score": 4}, "100003271051589": {"Person": "Irina Nizkina", "Match": "Irina Nizkina", "Id": "679287", "Score": 22.324570348037163}, "100003271206287": {"Person": "Nikolay Kondrashov", "Match": "Nikolay Kondrashov", "Id": "134718", "Score": 135.9123209957754}, "100003316029130": {"Person": "Nastia Olkhova", "Match": "Nastya Olkhova", "Id": "50589481", "Score": 11.047502359428382}, "100003317934270": {"Person": "Farida Dayanova", "Match": "Farida Dayanova", "Id": "3770194", "Score": 5.704112175545127}, "100003321872504": {"Person": "Andrey Khakhelev", "Match": "Andrey Khakhelev", "Id": "1575537", "Score": 6.1375963746852555}, "100003364168169": {"Person": "Sofya Danilova", "Match": "Sofya Danilova", "Id": "20456228", "Score": 10.69898801148995}, "100003366524569": {"Person": "Igor Nemtsov", "Match": "Igor Nemtsov", "Id": "2305363", "Score": 36.573657164061736}, "100003379845448": {"Person": "Anton Petukhov", "Match": "Anton Petukhov", "Id": "758701", "Score": 30.130192443793298}, "100003390222643": {"Person": "Galina Semenova", "Match": "Galina Semenova", "Id": "1355261", "Score": 28.676844622850687}, "100003492495150": {"Person": "Kirill Grekov", "Match": "Kirill Grekov", "Id": "17154881", "Score": 7.845888626256914}, "100003595269642": {"Person": "Anna Slepukhina", "Match": "Anna Slepukhina", "Id": "12131876", "Score": 22.01647937655925}, "100003634926659": {"Person": "Anastasia Kozhushko", "Match": "Anastasia Kozhushko", "Id": "4461189", "Score": 32.728963391413586}, "100003658757491": {"Person": "Yury Rabodzey", "Match": "Yury Rabodzey", "Id": "1165358", "Score": 14.960845193966122}, "100003703395340": {"Person": "Alexandra Ryabinina", "Match": "Alexandra Ryabinina", "Id": "117203357", "Score": 8.349017528532439}, "100003769181194": {"Person": "Ekaterina Kalegina", "Match": "Ekaterina Kalegina", "Id": "2521391", "Score": 20.787352548618486}, "100003850913715": {"Person": "Evgenia Ivanova", "Match": "Evgenia Ivanova", "Id": "172884355", "Score": 4.175219952889726}, "100003925201658": {"Person": "Elena Rusova", "Match": "Elena Rusova", "Id": "119122", "Score": 3.571020037432885}, "100003957700790": {"Person": "Nastya Kurganskaya", "Match": "Nastya Kurganskaya", "Id": "15050265", "Score": 22.11236582719154}, "100003967911427": {"Person": "Diana Sharafutdinova", "Match": "Diana Sharafutdinova", "Id": "182314650", "Score": 5.18294397995466}, "100004000628446": {"Person": "Marina Panina", "Match": "Marina Panina", "Id": "249318", "Score": 11.620915058227075}, "100004001818381": {"Person": "Elena Bazina", "Match": "Elena Bazina", "Id": "53631442", "Score": 15.90038970134245}, "100004060863066": {"Person": "Nuriya Gabdulkhakova", "Match": "Nuria Gabdulkhakova", "Id": "521642", "Score": 4.081605725683759}, "100004098524928": {"Person": "Asya Titova", "Match": "Asya Titova", "Id": "3749128", "Score": 33.07678198630636}, "100004159120379": {"Person": "Evgeny Ryzhkov", "Match": "Evgeny Ryzhkov", "Id": "38823121", "Score": 7.312552076508514}, "100004176488604": {"Person": "Max Fitch", "Match": "Max Fitch", "Id": "179833235", "Score": 7.231588608241097}, "100004181619928": {"Person": "Daria Astakhova", "Match": "Darya Astakhova", "Id": "5240314", "Score": 36.458291387308044}, "100004349744121": {"Person": "Maria Glazacheva", "Match": "Maria Glazacheva", "Id": "4439696", "Score": 19.823522425691177}, "100004465302127": {"Person": "Nikita Surkov", "Match": "Nikita Surkov", "Id": "1825453", "Score": 15.173791172875914}, "100004477506404": {"Person": "Natalia Voropaeva", "Match": "Natalya Voropaeva", "Id": "1406158", "Score": 18.82297356624131}, "100004543092591": {"Person": "Sergey Andreev", "Match": "Sergey Andreev", "Id": "418932", "Score": 20.54325961563413}, "100004864951093": {"Person": "Andrey Sobkalov", "Match": "Andrey Sobkalov", "Id": "166459908", "Score": 10.152992911166082}, "100005402611988": {"Person": "Olga Ravinskaya", "Match": "Olga Ravinskaya", "Id": "1134373", "Score": 35.91310607672375}, "100005477531524": {"Person": "Elizaveta Andreevna", "Match": "Elizaveta Andreevna", "Id": "4543451", "Score": 18.264012195619983}, "1002983997": {"Person": "Anna Gogoleva", "Match": "Anna Gogoleva", "Id": "798061", "Score": 3.277230911700909}, "1004277055": {"Person": "Luba Arkhipova", "Match": "Lyuba Arkhipova", "Id": "38917", "Score": 19.86442813539639}, "1014504946": {"Person": "Nastya Kuznetsova", "Match": "Nastya Kuznetsova", "Id": "1985250", "Score": 15.318828129721664}, "1028833322": {"Person": "Polina Kozhevnikova", "Match": "Polina Kozhevnikova", "Id": "913137", "Score": 40.683334961237996}, "1053405449": {"Person": "Vasily Rusanov", "Match": "Vasily Rusanov", "Id": "1427147", "Score": 45.45877566633644}, "1055634431": {"Person": "Yuri Golban", "Match": "Yury Golban", "Id": "23651870", "Score": 5.367338888846961}, "1068638701": {"Person": "Valentin Bolotenko", "Match": "Valentin Bolotenko", "Id": "134155345", "Score": 17}, "1094225560": {"Person": "Yulia Tihonova", "Match": "Yulia Tikhonova", "Id": "10970305", "Score": 5.0436830485528645}, "1097790601": {"Person": "Katya Nikitina", "Match": "Katya Nikitina", "Id": "5115496", "Score": 6.016158231545427}, "1113473968": {"Person": "Varvara Karpova", "Match": "Varvara Karpova", "Id": "8507443", "Score": 57.813663895211604}, "1146451632": {"Person": "Dmitry Lanin", "Match": "Dmitry Lanin", "Id": "3556336", "Score": 66.12080637128514}, "1151986774": {"Person": "Sergey Zhukov", "Match": "Sergey Zhukov", "Id": "4471103", "Score": 21.36579481105198}, "1162489127": {"Person": "Igor Budnikov", "Match": "Igor Budnikov", "Id": "1313482", "Score": 115.58768181878084}, "1198990792": {"Person": "Oxana Korobko", "Match": "Oxana Korobko", "Id": "16333366", "Score": 19.140812433095398}, "1229194424": {"Person": "Vladimir Segalov", "Match": "Vladimir Segalov", "Id": "900119", "Score": 7.726770245796185}, "1288164791": {"Person": "Dmitry Sionov", "Match": "Dmitry Sionov", "Id": "18312351", "Score": 32.88228269777655}, "1350631518": {"Person": "Anton Demchenko", "Match": "Anton Demchenko", "Id": "1123030", "Score": 45.77152133416449}, "1358906381": {"Person": "Ann Shebek", "Match": "Ann Shebek", "Id": "2788780", "Score": 25.391606970329345}, "1359094552": {"Person": "Anastasiya Zheleznaya", "Match": "Anastasiya Zheleznaya", "Id": "1503741", "Score": 4}, "1382803407": {"Person": "Valeriy Kizilov", "Match": "Valery Kizilov", "Id": "2226409", "Score": 21.76391766262817}, "1383370895": {"Person": "Victoria Zubareva", "Match": "Viktoria Zubareva", "Id": "363679", "Score": 29.157382636120506}, "1407218819": {"Person": "Viktoriya Podol\u2019skaya", "Match": "Viktoriya Podol\u2019skaya", "Id": "1968782", "Score": 4}, "1407826820": {"Person": "Andrey Gurevich", "Match": "Andrey Gurevich", "Id": "20284439", "Score": 12.2191386626737}, "1417133254": {"Person": "Anastasia Vyskubina", "Match": "Anastasiya Vyskubina", "Id": "7742443", "Score": 6.239265884743718}, "1417196333": {"Person": "Ivan Gruzdev", "Match": "Ivan Gruzdev", "Id": "1587372", "Score": 91.43066377356513}, "1432710835": {"Person": "Anna Lopakova", "Match": "Anya Lopakova", "Id": "2430856", "Score": 35.100405340687225}, "1434248379": {"Person": "Mikhail Vasilenko", "Match": "Mikhail Vasilenko", "Id": "827316", "Score": 56.88869067719386}, "1438846783": {"Person": "Mikhail Kurashov", "Match": "Mikhail Kurashov", "Id": "1107360", "Score": 67.66727573252842}, "1440864325": {"Person": "Tat\u2019yana Vorontsova", "Match": "Tatyana Vorontsova", "Id": "2870459", "Score": 49.99097953550015}, "1443217362": {"Person": "Natasha Sergutina", "Match": "Natasha Sergutina", "Id": "2356336", "Score": 17.47326986850836}, "1463373608": {"Person": "Anastasia Shevtsova", "Match": "Anastasia Shevtsova", "Id": "1554324", "Score": 21.09349232801212}, "1467613902": {"Person": "Denis Polyakov", "Match": "Denis Polyakov", "Id": "2744491", "Score": 6}, "1468283776": {"Person": "Mariya Petkova", "Match": "Maria Petkova", "Id": "13166260", "Score": 8.475271010431584}, "1481047600": {"Person": "Anastasia Silaeva", "Match": "Anastasia Silaeva", "Id": "155130530", "Score": 3.650848652540416}, "1483478636": {"Person": "Yulia Galkina", "Match": "Yulia Galkina", "Id": "99106128", "Score": 28.852572024413593}, "1503649361": {"Person": "Yulia Peltinovich", "Match": "Yulia Peltinovich", "Id": "1091097", "Score": 38.58117772649942}, "1517164129": {"Person": "Maria Suslova", "Match": "Maria Suslova", "Id": "2208364", "Score": 46.64971514197043}, "1530158149": {"Person": "Alexander Voloshchuk", "Match": "Alexander Voloschuk", "Id": "19229924", "Score": 68.0665453035919}, "1534164361": {"Person": "Natalia Trofimova", "Match": "Natalya Trofimova", "Id": "20206347", "Score": 18.133830678061045}, "1538450942": {"Person": "Natal\u2019ya Androsenko", "Match": "Natalya Androsenko", "Id": "7883307", "Score": 12.0400885260146}, "1576411051": {"Person": "Anya Pavlova", "Match": "Anya Pavlova", "Id": "433034", "Score": 20.841253551953884}, "1586712562": {"Person": "Philipp Mukhin", "Match": "Philip Mukhin", "Id": "1399820", "Score": 33.661914752508565}, "1589707384": {"Person": "Natalia Filinova", "Match": "Natalya Filinova", "Id": "1956645", "Score": 6.556935295141081}, "1643539780": {"Person": "Sergey Petrov", "Match": "Sergey Petrov", "Id": "96833864", "Score": 5}, "1650631061": {"Person": "Anna Selyanina", "Match": "Anna Selyanina", "Id": "6430722", "Score": 6.251825767384471}, "1659008320": {"Person": "Andrey Larin", "Match": "Andrey Larin", "Id": "268381", "Score": 94.74911585423125}, "1694550358": {"Person": "Konstantin Danilov", "Match": "Konstantin Danilov", "Id": "1129383", "Score": 8.398442862772995}, "1813363957": {"Person": "Alla Suvorova", "Match": "Alla Suvorova", "Id": "123393", "Score": 50.00951861987666}, "1824761676": {"Person": "Yulia Muslimova", "Match": "Yulia Muslimova", "Id": "27534", "Score": 15.167865588259806}, "1835686303": {"Person": "Vladimir Koveshnikov", "Match": "Vladimir Koveshnikov", "Id": "3354703", "Score": 19.958270213898263}, "1841921828": {"Person": "Alexander Vasiliev", "Match": "Alexander Vasilyev", "Id": "52779125", "Score": 3.6565276242765017}, "1844987734": {"Person": "Gleb Zaitsev", "Match": "Gleb Zaytsev", "Id": "1124469", "Score": 10.56542125036616}, "277702072": {"Person": "Anna Volgina", "Match": "Anna Volgina", "Id": "59011", "Score": 32.1342039641323}, "508815702": {"Person": "Sergey Kapustin", "Match": "Sergey Kapustin", "Id": "1189875", "Score": 3.963080402387103}, "511079950": {"Person": "Tatiana Ezzheva", "Match": "Tatyana Ezzheva", "Id": "87353631", "Score": 5.380383753037574}, "517407112": {"Person": "Ekaterina Orlova", "Match": "Ekaterina Orlova", "Id": "1599417", "Score": 6.4411769258035845}, "540092636": {"Person": "Alexey Kazakov", "Match": "Alexey Kazakov", "Id": "2371409", "Score": 24.282145660178443}, "580549144": {"Person": "Roman Salamonov", "Match": "Roman Salamonov", "Id": "189245184", "Score": 9.522022612788703}, "581621601": {"Person": "Olga Tsygankova", "Match": "Olga Tsygankova", "Id": "36657", "Score": 96.74564776015515}, "583756467": {"Person": "Ekaterina Denisova", "Match": "Ekaterina Denisova", "Id": "96854", "Score": 45.489102361055856}, "585658546": {"Person": "Mikhail Vasilevsky", "Match": "Mikhail Vasilevsky", "Id": "1876842", "Score": 9.733264798711357}, "607367562": {"Person": "Anna Barchenko", "Match": "Anna Barchenko", "Id": "3155294", "Score": 20.642418488161724}, "641907026": {"Person": "Mikhail Shin", "Match": "Mikhail Shin", "Id": "109210652", "Score": 82.19320452264874}, "663488057": {"Person": "Elena Nedbaeva", "Match": "Elena Nedbaeva", "Id": "7135", "Score": 29.35782920814902}, "704091690": {"Person": "Evgeny Markin", "Match": "Evgeny Markin", "Id": "7942486", "Score": 4.151066361674643}, "706133283": {"Person": "Irina Bulygina", "Match": "Irina Bulygina", "Id": "61572", "Score": 62.479366470835934}, "711006783": {"Person": "Pavel Luksha", "Match": "Pavel Luksha", "Id": "2600142", "Score": 33.634991033286354}, "731717322": {"Person": "Boris Demeshev", "Match": "Boris Demeshev", "Id": "25062555", "Score": 18.82669853815222}, "732384679": {"Person": "Tatyana Drozdova", "Match": "Tatyana Drozdova", "Id": "902953", "Score": 31.60808554849935}, "732964458": {"Person": "Anna Turulina", "Match": "Anna Turulina", "Id": "126516", "Score": 4}, "752744107": {"Person": "Anton Noginov", "Match": "Anton Noginov", "Id": "1025084", "Score": 32.9840246289489}, "823443816": {"Person": "Ilya Mutovin", "Match": "Ilya Mutovin", "Id": "907045", "Score": 57.19916364545836}}
+{
+    "1933345": {
+        "Person": "Yulia Denshina",
+        "Match": "Yulia Denshina",
+        "Id": "100000981154075",
+        "Score": 19.574694255112373
+    },
+    "16744503": {
+        "Person": "Vladimir Salnikov",
+        "Match": "Vladimir Salnikov",
+        "Id": "100002389808651",
+        "Score": 3.187137247683139
+    },
+    "1441849": {
+        "Person": "Sergey Tarasov",
+        "Match": "Sergey Tarasov",
+        "Id": "100000083709906",
+        "Score": 41.54928141363561
+    },
+    "1780424": {
+        "Person": "Veniamin Andryuschenko",
+        "Match": "Veniamin Andryushchenko",
+        "Id": "100001854191145",
+        "Score": 17.203367450408106
+    },
+    "40381": {
+        "Person": "Veronika Ikaeva",
+        "Match": "Veronika Ikaeva",
+        "Id": "100000443800983",
+        "Score": 42.72394553600692
+    },
+    "1147237": {
+        "Person": "Yury Reyzer",
+        "Match": "Yura Reizer",
+        "Id": "100002369787918",
+        "Score": 131.00346304360335
+    },
+    "172884355": {
+        "Person": "Evgenia Ivanova",
+        "Match": "Evgenia Ivanova",
+        "Id": "100003850913715",
+        "Score": 4.1752199528897265
+    },
+    "182314650": {
+        "Person": "Diana Sharafutdinova",
+        "Match": "Diana Sharafutdinova",
+        "Id": "100003967911427",
+        "Score": 5.18294397995466
+    },
+    "7797147": {
+        "Person": "Tanya Derbikova",
+        "Match": "Tanya Derbikova",
+        "Id": "100002947588909",
+        "Score": 36.57290622295066
+    },
+    "420658": {
+        "Person": "Alexander Susoev",
+        "Match": "Alexander Susoev",
+        "Id": "100000524630354",
+        "Score": 8.873198758086389
+    },
+    "17105767": {
+        "Person": "Timur Egorov",
+        "Match": "Timur Egorov",
+        "Id": "100001096370900",
+        "Score": 5.140610247007817
+    },
+    "918487": {
+        "Person": "Irina Merts",
+        "Match": "Irina Merts",
+        "Id": "100002192821400",
+        "Score": 126.22344983434144
+    },
+    "20284439": {
+        "Person": "Andrey Gurevich",
+        "Match": "Andrey Gurevich",
+        "Id": "1407826820",
+        "Score": 12.54763899172931
+    },
+    "66895": {
+        "Person": "Anna Lapshova",
+        "Match": "Anna Lapshova",
+        "Id": "100001609965854",
+        "Score": 60.85751868826658
+    },
+    "27534": {
+        "Person": "Yulia Muslimova",
+        "Match": "Yulia Muslimova",
+        "Id": "1824761676",
+        "Score": 15.167865588259804
+    },
+    "152617231": {
+        "Person": "Vera Zinchenko",
+        "Match": "Vera Zinchenko",
+        "Id": "100002148763161",
+        "Score": 25.670790197888365
+    },
+    "2885223": {
+        "Person": "Grigory Seleznev",
+        "Match": "Grigoriy Seleznev",
+        "Id": "100001874214592",
+        "Score": 25.85672834768095
+    },
+    "1672822": {
+        "Person": "Elena Kashirskaya",
+        "Match": "Elena Kashirskaya",
+        "Id": "100002255117111",
+        "Score": 21.171435761029585
+    },
+    "165531": {
+        "Person": "Svetlana Vasyukova",
+        "Match": "Svetlana Vasyukova",
+        "Id": "100000197289985",
+        "Score": 22.6992970346176
+    },
+    "182683417": {
+        "Person": "Anastasia Kalashnikova",
+        "Match": "Anastasiya Kalashnikova",
+        "Id": "100001835229713",
+        "Score": 4.647732430138863
+    },
+    "3802959": {
+        "Person": "Darya Solovyeva",
+        "Match": "Daria Solovieva",
+        "Id": "100001751022393",
+        "Score": 5.3944206034871405
+    },
+    "3770194": {
+        "Person": "Farida Dayanova",
+        "Match": "Farida Dayanova",
+        "Id": "100003317934270",
+        "Score": 6.821287633757477
+    },
+    "1050952": {
+        "Person": "Dmitry Solovyev",
+        "Match": "Dmitry Solovyev",
+        "Id": "100000163331996",
+        "Score": 321.56119710558056
+    },
+    "83954010": {
+        "Person": "Uliana Curie",
+        "Match": "Uliana Curie",
+        "Id": "100002120957330",
+        "Score": 23.105595582450505
+    },
+    "5343626": {
+        "Person": "Elizaveta Emelyanova",
+        "Match": "Elisaveta Emelyanova",
+        "Id": "100000115908309",
+        "Score": 83.30299273596628
+    },
+    "854429": {
+        "Person": "Elena Mitrokhina",
+        "Match": "Elena Mitrokhina",
+        "Id": "100003181367168",
+        "Score": 44.5096679750084
+    },
+    "23331259": {
+        "Person": "Vlad Kondrashov",
+        "Match": "Vlad Kondrashov",
+        "Id": "100002451954136",
+        "Score": 14.50332975180274
+    },
+    "1575537": {
+        "Person": "Andrey Khakhelev",
+        "Match": "Andrey Khakhelev",
+        "Id": "100003321872504",
+        "Score": 8
+    },
+    "1968782": {
+        "Person": "Viktoriya Podol\u2019skaya",
+        "Match": "Viktoriya Podol\u2019skaya",
+        "Id": "1407218819",
+        "Score": 4
+    },
+    "82578063": {
+        "Person": "Viktoria Kuznetsova",
+        "Match": "Viktoriya Kuznetsova",
+        "Id": "100001240084400",
+        "Score": 12.7654477664066
+    },
+    "1313482": {
+        "Person": "Igor Budnikov",
+        "Match": "Igor Budnikov",
+        "Id": "1162489127",
+        "Score": 120.09580767307091
+    },
+    "2263783": {
+        "Person": "Vadim Grischenko",
+        "Match": "Vadim Grishchenko",
+        "Id": "100001080838217",
+        "Score": 68.70504838843604
+    },
+    "985847": {
+        "Person": "Polina Tyuts",
+        "Match": "Polina Tyuts",
+        "Id": "100001489163319",
+        "Score": 20.279709867997
+    },
+    "142286": {
+        "Person": "Anton Repnikov",
+        "Match": "Anton Repnikov",
+        "Id": "100001929934579",
+        "Score": 62.9529273032759
+    },
+    "625483": {
+        "Person": "Irina Bamzurova",
+        "Match": "Irina Bamzurova",
+        "Id": "100000769981934",
+        "Score": 16.032074123606655
+    },
+    "134155345": {
+        "Person": "Valentin Bolotenko",
+        "Match": "Valentin Bolotenko",
+        "Id": "1068638701",
+        "Score": 17
+    },
+    "1019034": {
+        "Person": "Ekaterina Andreyanova",
+        "Match": "Ekaterina Andreyanova",
+        "Id": "100000824392400",
+        "Score": 21.51810603465693
+    },
+    "363679": {
+        "Person": "Viktoria Zubareva",
+        "Match": "Victoria Zubareva",
+        "Id": "1383370895",
+        "Score": 31.6756220462911
+    },
+    "2600142": {
+        "Person": "Pavel Luksha",
+        "Match": "Pavel Luksha",
+        "Id": "711006783",
+        "Score": 34.44394321562988
+    },
+    "265434": {
+        "Person": "Anya Dmitrieva",
+        "Match": "Anna Dmitrieva",
+        "Id": "100002397584579",
+        "Score": 26.431375901319097
+    },
+    "134415": {
+        "Person": "Nadezhda Obukhova",
+        "Match": "Nadezhda Obukhova",
+        "Id": "100001107253922",
+        "Score": 29.845680042445863
+    },
+    "19229924": {
+        "Person": "Alexander Voloschuk",
+        "Match": "Alexander Voloshchuk",
+        "Id": "1530158149",
+        "Score": 69.38441287114881
+    },
+    "165244128": {
+        "Person": "Alevtina Vinogradova",
+        "Match": "Alevtina Vinogradova",
+        "Id": "100000257280657",
+        "Score": 41.773347421265285
+    },
+    "2428418": {
+        "Person": "Yulya Posashko",
+        "Match": "Yulia Posashko",
+        "Id": "100000221333258",
+        "Score": 36.85891073710201
+    },
+    "593449": {
+        "Person": "Maria Vladimirskaya",
+        "Match": "Maria Vladimirskaya",
+        "Id": "100000052869779",
+        "Score": 4.693420327974756
+    },
+    "2521391": {
+        "Person": "Ekaterina Kalegina",
+        "Match": "Ekaterina Kalegina",
+        "Id": "100003769181194",
+        "Score": 21.727411071586342
+    },
+    "134718": {
+        "Person": "Nikolay Kondrashov",
+        "Match": "Nikolay Kondrashov",
+        "Id": "100003271206287",
+        "Score": 140.522060541609
+    },
+    "5115496": {
+        "Person": "Katya Nikitina",
+        "Match": "Katya Nikitina",
+        "Id": "1097790601",
+        "Score": 6.016158231545427
+    },
+    "8851122": {
+        "Person": "Milyausha Sirazetdinova",
+        "Match": "Milyausha Sirazetdinova",
+        "Id": "100001695582120",
+        "Score": 33.97845103689366
+    },
+    "178851541": {
+        "Person": "Alina Korotkova",
+        "Match": "Alina Korotkova",
+        "Id": "100002571427875",
+        "Score": 12.55413770201064
+    },
+    "36657": {
+        "Person": "Olga Tsygankova",
+        "Match": "Olga Tsygankova",
+        "Id": "581621601",
+        "Score": 100.2340566891984
+    },
+    "2559885": {
+        "Person": "Elena Melamed",
+        "Match": "Elena Melamed",
+        "Id": "100000941891635",
+        "Score": 15.543030994633746
+    },
+    "96833864": {
+        "Person": "Sergey Petrov",
+        "Match": "Sergey Petrov",
+        "Id": "1643539780",
+        "Score": 3.732358792457736
+    },
+    "825400": {
+        "Person": "Irina Sachkova",
+        "Match": "Irina Sachkova",
+        "Id": "100001493374275",
+        "Score": 9.81231215836522
+    },
+    "2429296": {
+        "Person": "Tatyana Kotok",
+        "Match": "Tatyanka Kotok",
+        "Id": "100001215633989",
+        "Score": 13.535478848224868
+    },
+    "201154": {
+        "Person": "Anastasia Salnikova",
+        "Match": "Anastasiya Sal\u2019nikova",
+        "Id": "100001839760658",
+        "Score": 23.58925193333044
+    },
+    "25432678": {
+        "Person": "Snezhana Ionova",
+        "Match": "Snezhana Ionova",
+        "Id": "100002104115271",
+        "Score": 12
+    },
+    "51824881": {
+        "Person": "Ekaterina Tyurina",
+        "Match": "Ekaterina Tyurina",
+        "Id": "100000302272382",
+        "Score": 10.77744610229274
+    },
+    "165670339": {
+        "Person": "Natalya Meschanova",
+        "Match": "Natalya Meschanova",
+        "Id": "100000839375499",
+        "Score": 8.407348987042994
+    },
+    "166007480": {
+        "Person": "Nadezhda Chekasina",
+        "Match": "Nadezhda Chekasina",
+        "Id": "100002668111826",
+        "Score": 15.462230086746276
+    },
+    "116101829": {
+        "Person": "Askar Valitov",
+        "Match": "Askar Valitov",
+        "Id": "100002943820133",
+        "Score": 4.711439349234128
+    },
+    "80810701": {
+        "Person": "Armen Tsaturov",
+        "Match": "Armen Tsaturov",
+        "Id": "100001365463000",
+        "Score": 19.46426951600391
+    },
+    "758701": {
+        "Person": "Anton Petukhov",
+        "Match": "Anton Petukhov",
+        "Id": "100003379845448",
+        "Score": 32.06574451639999
+    },
+    "1599417": {
+        "Person": "Ekaterina Orlova",
+        "Match": "Ekaterina Orlova",
+        "Id": "517407112",
+        "Score": 10.718613255062222
+    },
+    "2725699": {
+        "Person": "Platon Vydumkin",
+        "Match": "Platon Vydumkin",
+        "Id": "100002785511190",
+        "Score": 4.859185024785173
+    },
+    "3381061": {
+        "Person": "Inna Emelina",
+        "Match": "Inka Emelina",
+        "Id": "100000042078402",
+        "Score": 3.857562344937619
+    },
+    "2430856": {
+        "Person": "Anya Lopakova",
+        "Match": "Anna Lopakova",
+        "Id": "1432710835",
+        "Score": 35.470111107148284
+    },
+    "1557495": {
+        "Person": "Sergey Andrienko",
+        "Match": "Sergey Andriyenko",
+        "Id": "100000716153916",
+        "Score": 6.563299643719676
+    },
+    "155130530": {
+        "Person": "Anastasia Silaeva",
+        "Match": "Anastasia Silaeva",
+        "Id": "1481047600",
+        "Score": 3.650848652540416
+    },
+    "2627565": {
+        "Person": "Andrey Tarutin",
+        "Match": "Andrey Tarutin",
+        "Id": "100001234390625",
+        "Score": 4
+    },
+    "38917": {
+        "Person": "Lyuba Arkhipova",
+        "Match": "Luba Arkhipova",
+        "Id": "1004277055",
+        "Score": 22.411758564889436
+    },
+    "4691996": {
+        "Person": "Darya Krasilnikova",
+        "Match": "Darya Krasilnikova",
+        "Id": "100000974113079",
+        "Score": 4.242137028772052
+    },
+    "8443369": {
+        "Person": "Dmitry Elkov",
+        "Match": "Dmitri Elkov",
+        "Id": "100001116087976",
+        "Score": 13.604888920142976
+    },
+    "268381": {
+        "Person": "Andrey Larin",
+        "Match": "Andrey Larin",
+        "Id": "1659008320",
+        "Score": 101.13785544732245
+    },
+    "913137": {
+        "Person": "Polina Kozhevnikova",
+        "Match": "Polina Kozhevnikova",
+        "Id": "1028833322",
+        "Score": 41.99828685611225
+    },
+    "61288192": {
+        "Person": "Daniil Chernyak",
+        "Match": "Daniil Chernyak",
+        "Id": "100002991805515",
+        "Score": 6.117700006786709
+    },
+    "1841804": {
+        "Person": "Sergey Deyneka",
+        "Match": "Sergey Deyneka",
+        "Id": "100000675411609",
+        "Score": 93.54473006633468
+    },
+    "20552497": {
+        "Person": "Roma Pyatin",
+        "Match": "Roman Pyatin",
+        "Id": "100001273944580",
+        "Score": 66.41654938503594
+    },
+    "2956583": {
+        "Person": "Ivan Shinov",
+        "Match": "Ivan Shinov",
+        "Id": "100001829835354",
+        "Score": 16.61424328638404
+    },
+    "1489802": {
+        "Person": "Katerina Sorokovaya",
+        "Match": "Katerina Sorokovaya",
+        "Id": "100002369555878",
+        "Score": 63.97660772633824
+    },
+    "5708": {
+        "Person": "Olga Kiryushina",
+        "Match": "Ol\u2019ga Kiryushina",
+        "Id": "100000416502121",
+        "Score": 20.22036583682163
+    },
+    "92577190": {
+        "Person": "Olga Bogolyubova",
+        "Match": "Olga Bogolubova",
+        "Id": "100001457506968",
+        "Score": 5.062447652669003
+    },
+    "2497976": {
+        "Person": "Mikhail Rubin",
+        "Match": "Mikhail Rubin",
+        "Id": "100001043386282",
+        "Score": 35.42883433150367
+    },
+    "12525063": {
+        "Person": "Polina Vasilenko",
+        "Match": "Polina Vasilenko",
+        "Id": "100002266343819",
+        "Score": 3.1868747306890777
+    },
+    "12131876": {
+        "Person": "Anna Slepukhina",
+        "Match": "Anna Slepukhina",
+        "Id": "100003595269642",
+        "Score": 24.626940557828377
+    },
+    "106060": {
+        "Person": "Valeria Bodunova",
+        "Match": "Valeriya Bodunova",
+        "Id": "100000409566782",
+        "Score": 9.985399064270908
+    },
+    "3808891": {
+        "Person": "Dina Malakhova",
+        "Match": "Dina Malahova",
+        "Id": "100002914877916",
+        "Score": 8.916836403819367
+    },
+    "196707637": {
+        "Person": "Daria Sageeva",
+        "Match": "Dariya Sageeva",
+        "Id": "100002208087347",
+        "Score": 4.053246669942727
+    },
+    "1613720": {
+        "Person": "Yury Belous",
+        "Match": "Yuriy Belous",
+        "Id": "100000025460358",
+        "Score": 119.83328109852857
+    },
+    "827316": {
+        "Person": "Mikhail Vasilenko",
+        "Match": "Mikhail Vasilenko",
+        "Id": "1434248379",
+        "Score": 58.090052806375674
+    },
+    "2867746": {
+        "Person": "Lev Tretyakov",
+        "Match": "Lev Tret\u2019yakov",
+        "Id": "100000574922338",
+        "Score": 4.727603051636931
+    },
+    "1352018": {
+        "Person": "Olya Grebenyuk",
+        "Match": "Olga Grebenyuk",
+        "Id": "100001851886698",
+        "Score": 16.794429289324242
+    },
+    "18555285": {
+        "Person": "Vladimir Shvedov",
+        "Match": "Vladimir Shvedov",
+        "Id": "100002100266669",
+        "Score": 28.41319426661852
+    },
+    "3354703": {
+        "Person": "Vladimir Koveshnikov",
+        "Match": "Vladimir Koveshnikov",
+        "Id": "1835686303",
+        "Score": 21.684959479331194
+    },
+    "4923938": {
+        "Person": "Natalya Chernova",
+        "Match": "Natalia Chernova",
+        "Id": "100001033734352",
+        "Score": 49.703308522218535
+    },
+    "303695": {
+        "Person": "Aida Gubaydullina",
+        "Match": "Aida Gubaidullina",
+        "Id": "100001189411705",
+        "Score": 48.55638266073792
+    },
+    "1123030": {
+        "Person": "Anton Demchenko",
+        "Match": "Anton Demchenko",
+        "Id": "1350631518",
+        "Score": 45.490258961187635
+    },
+    "7185167": {
+        "Person": "Alexander Naroditsky",
+        "Match": "Alexander Naroditsky",
+        "Id": "100000513535373",
+        "Score": 34.08013742603789
+    },
+    "1876842": {
+        "Person": "Mikhail Vasilevsky",
+        "Match": "Mikhail Vasilevsky",
+        "Id": "585658546",
+        "Score": 9.733264798711357
+    },
+    "893865": {
+        "Person": "Alexey Pronin",
+        "Match": "Alexey Pronin",
+        "Id": "100001735299023",
+        "Score": 79.04594709018507
+    },
+    "1876941": {
+        "Person": "Elena Ulmasova",
+        "Match": "Elena Ulmasova",
+        "Id": "100002470380108",
+        "Score": 58.527674430404396
+    },
+    "959448": {
+        "Person": "Yan Oskin",
+        "Match": "Yan Oskin",
+        "Id": "100001048233575",
+        "Score": 74.49347112558046
+    },
+    "7742443": {
+        "Person": "Anastasiya Vyskubina",
+        "Match": "Anastasia Vyskubina",
+        "Id": "1417133254",
+        "Score": 5.950667804118781
+    },
+    "81607584": {
+        "Person": "Sergey Tsarev",
+        "Match": "Sergey Tsarev",
+        "Id": "100001778086173",
+        "Score": 15.204884298850102
+    },
+    "1025084": {
+        "Person": "Anton Noginov",
+        "Match": "Anton Noginov",
+        "Id": "752744107",
+        "Score": 34.666133806110736
+    },
+    "26518695": {
+        "Person": "Vitovt Kopytok",
+        "Match": "Vitovt Kopitok",
+        "Id": "100002040111631",
+        "Score": 14.432394909750153
+    },
+    "1858432": {
+        "Person": "Galina Alimova",
+        "Match": "Galina Alimova",
+        "Id": "100002039121102",
+        "Score": 16.87531034770978
+    },
+    "433034": {
+        "Person": "Anya Pavlova",
+        "Match": "Anya Pavlova",
+        "Id": "1576411051",
+        "Score": 23.21104128072949
+    },
+    "22160728": {
+        "Person": "Anastasia Malykh",
+        "Match": "Anastasia Malykh",
+        "Id": "100001313784841",
+        "Score": 29.04684187449545
+    },
+    "3155294": {
+        "Person": "Anna Barchenko",
+        "Match": "Anna Barchenko",
+        "Id": "607367562",
+        "Score": 23.28737765981959
+    },
+    "3056995": {
+        "Person": "Denis Kudryavtsev",
+        "Match": "Dennis Koudryavtsev",
+        "Id": "100001744768890",
+        "Score": 4.65620722389904
+    },
+    "3458638": {
+        "Person": "Nikita Divaev",
+        "Match": "Nikita Divayev",
+        "Id": "100000023627948",
+        "Score": 77.99834456097472
+    },
+    "7153121": {
+        "Person": "Vadim Maslyaev",
+        "Match": "Vadim Maslyayev",
+        "Id": "100001952926654",
+        "Score": 13.323475516109799
+    },
+    "15050265": {
+        "Person": "Nastya Kurganskaya",
+        "Match": "Nastya Kurganskaya",
+        "Id": "100003957700790",
+        "Score": 22.061577990689415
+    },
+    "304672": {
+        "Person": "Roman Belevsky",
+        "Match": "Roman Belevsky",
+        "Id": "100001803007332",
+        "Score": 16.809848405431918
+    },
+    "21177920": {
+        "Person": "Ekaterina Sharmanova",
+        "Match": "Ekaterina Sharmanova",
+        "Id": "100001152091084",
+        "Score": 8
+    },
+    "189245184": {
+        "Person": "Roman Salamonov",
+        "Match": "Roman Salamonov",
+        "Id": "580549144",
+        "Score": 10.016988277543016
+    },
+    "665387": {
+        "Person": "Marina Aliverdieva",
+        "Match": "Marina Aliverdieva",
+        "Id": "100001089122619",
+        "Score": 23.780228050655328
+    },
+    "2109755": {
+        "Person": "Daniil Mashtakov",
+        "Match": "Daniil Mashtakov",
+        "Id": "100000763263717",
+        "Score": 74.03952761766175
+    },
+    "5220231": {
+        "Person": "Yury Pavlov",
+        "Match": "Yuriy Pavlov",
+        "Id": "100001520487156",
+        "Score": 8.463427414320595
+    },
+    "2368090": {
+        "Person": "Margarita Mikhaylova",
+        "Match": "Margarita Mikhailova",
+        "Id": "100000996697820",
+        "Score": 144.95164196570596
+    },
+    "640674": {
+        "Person": "Evgenia Utkina",
+        "Match": "Evgeniya Utkina",
+        "Id": "100000637299128",
+        "Score": 40.02832586678926
+    },
+    "1189875": {
+        "Person": "Sergey Kapustin",
+        "Match": "Sergey Kapustin",
+        "Id": "508815702",
+        "Score": 3.8790176374893233
+    },
+    "3188796": {
+        "Person": "Anna Sivakova",
+        "Match": "Anna Sivakova",
+        "Id": "100001631763723",
+        "Score": 20.982346678070417
+    },
+    "3556336": {
+        "Person": "Dmitry Lanin",
+        "Match": "Dmitry Lanin",
+        "Id": "1146451632",
+        "Score": 70.22584192372298
+    },
+    "1399820": {
+        "Person": "Philip Mukhin",
+        "Match": "Philipp Mukhin",
+        "Id": "1586712562",
+        "Score": 33.86148552226924
+    },
+    "4144456": {
+        "Person": "Dionisio Garsia",
+        "Match": "Dionisio Garsiya",
+        "Id": "100000496905482",
+        "Score": 5.6551254871898
+    },
+    "1124469": {
+        "Person": "Gleb Zaytsev",
+        "Match": "Gleb Zaitsev",
+        "Id": "1844987734",
+        "Score": 10.828409416402804
+    },
+    "23174166": {
+        "Person": "Darya Nikiforova",
+        "Match": "Dar\u2019ya Nikiforova",
+        "Id": "100001411879211",
+        "Score": 21.104311054557467
+    },
+    "141636": {
+        "Person": "Roman Bukh",
+        "Match": "Roman Bukh",
+        "Id": "100001575871473",
+        "Score": 64.91658297492633
+    },
+    "58894823": {
+        "Person": "Evgeny Shevchenko",
+        "Match": "Evgeny Shevchenko",
+        "Id": "100000715050614",
+        "Score": 33.09556673686317
+    },
+    "103361153": {
+        "Person": "Marina Artyukh",
+        "Match": "Marina Artyukh",
+        "Id": "100000547123091",
+        "Score": 4
+    },
+    "3644741": {
+        "Person": "Alina Tavlueva",
+        "Match": "Alina Tavlueva",
+        "Id": "100000478561027",
+        "Score": 20.251037730015295
+    },
+    "3287876": {
+        "Person": "Alisa Abaeva",
+        "Match": "Alisa Abaeva",
+        "Id": "100001686781220",
+        "Score": 4.0478444150206645
+    },
+    "1730904": {
+        "Person": "Anastasia Kiselyova",
+        "Match": "Anastasia Kiselyova",
+        "Id": "100000215948307",
+        "Score": 36.477509823104455
+    },
+    "16067653": {
+        "Person": "Evgeny Dubinin",
+        "Match": "Evgeny Dubinin",
+        "Id": "100000962266290",
+        "Score": 7.499224215757599
+    },
+    "2534726": {
+        "Person": "Dmitry Kazakov",
+        "Match": "Dmitriy Kazakov",
+        "Id": "100002652443989",
+        "Score": 10.194691450201418
+    },
+    "2305363": {
+        "Person": "Igor Nemtsov",
+        "Match": "Igor Nemtsov",
+        "Id": "100003366524569",
+        "Score": 37.18410513423855
+    },
+    "798061": {
+        "Person": "Anna Gogoleva",
+        "Match": "Anna Gogoleva",
+        "Id": "1002983997",
+        "Score": 3.277230911700909
+    },
+    "1355261": {
+        "Person": "Galina Semenova",
+        "Match": "Galina Semenova",
+        "Id": "100003390222643",
+        "Score": 30.43501159415641
+    },
+    "115098250": {
+        "Person": "Anton Zybin",
+        "Match": "Anton Zybin",
+        "Id": "100000578763335",
+        "Score": 4.317215416472343
+    },
+    "7286457": {
+        "Person": "Amalia Zatari",
+        "Match": "Amalia Zatari",
+        "Id": "100001800360126",
+        "Score": 28.527215574455663
+    },
+    "66563805": {
+        "Person": "Sergey Vasilyev",
+        "Match": "Sergey Vasilyev",
+        "Id": "100002048923643",
+        "Score": 5.092443538236795
+    },
+    "12824325": {
+        "Person": "Svetlana Andreeva",
+        "Match": "Svetlana Andreeva",
+        "Id": "100001641225821",
+        "Score": 6.610147573951265
+    },
+    "2371409": {
+        "Person": "Alexey Kazakov",
+        "Match": "Alexey Kazakov",
+        "Id": "540092636",
+        "Score": 26.018664295624568
+    },
+    "31095432": {
+        "Person": "Alexey Tatarnikov",
+        "Match": "Alexey Tatarnikov",
+        "Id": "100003182331902",
+        "Score": 3.089333741182496
+    },
+    "13414428": {
+        "Person": "Nadezhda Savina",
+        "Match": "Nadezhda Savina",
+        "Id": "100003124652486",
+        "Score": 12.119962937378494
+    },
+    "44150831": {
+        "Person": "Dmitry Davidyak",
+        "Match": "Dmitry Davidyak",
+        "Id": "100002329393414",
+        "Score": 8.319440339163219
+    },
+    "16068749": {
+        "Person": "Sergey Berdyshev",
+        "Match": "Sergey Berdyshev",
+        "Id": "100003007808052",
+        "Score": 10.243597265320659
+    },
+    "13546224": {
+        "Person": "Lyusya Malinka",
+        "Match": "Lyusya Malinka",
+        "Id": "100001160681360",
+        "Score": 17.058779439344036
+    },
+    "2208364": {
+        "Person": "Maria Suslova",
+        "Match": "Maria Suslova",
+        "Id": "1517164129",
+        "Score": 47.41530627153192
+    },
+    "3540065": {
+        "Person": "Yana Parshutina",
+        "Match": "Yana Parshutina",
+        "Id": "100000704965209",
+        "Score": 23.291093108124123
+    },
+    "16921495": {
+        "Person": "Anna Purna",
+        "Match": "Anna Purna",
+        "Id": "100001501209480",
+        "Score": 4.221784779577135
+    },
+    "930796": {
+        "Person": "Natalya Matveeva",
+        "Match": "Natalia Matveeva",
+        "Id": "100000670244619",
+        "Score": 15.060353552158448
+    },
+    "6173688": {
+        "Person": "Alina Kozina",
+        "Match": "Alina Kozina",
+        "Id": "100000183952921",
+        "Score": 12.787313637936759
+    },
+    "3749128": {
+        "Person": "Asya Titova",
+        "Match": "Asya Titova",
+        "Id": "100004098524928",
+        "Score": 35.649277818045334
+    },
+    "2897340": {
+        "Person": "Anna Danielyan",
+        "Match": "Anna Danielyan",
+        "Id": "100002596356441",
+        "Score": 76.49581388296556
+    },
+    "18462180": {
+        "Person": "Nina Buchina",
+        "Match": "Nina Buchina",
+        "Id": "100002329288642",
+        "Score": 18.974762473272758
+    },
+    "243219": {
+        "Person": "Sergey Shupletsov",
+        "Match": "Sergey Shupletsov",
+        "Id": "100000396231309",
+        "Score": 5.532183390181693
+    },
+    "20891908": {
+        "Person": "Anna Nikitina",
+        "Match": "Anna Nikitina",
+        "Id": "100000432357280",
+        "Score": 16.663979936967795
+    },
+    "3225264": {
+        "Person": "Kirill Kolotovkin",
+        "Match": "Kirill Kolotovkin",
+        "Id": "100003257614623",
+        "Score": 9.088930464465925
+    },
+    "1357544": {
+        "Person": "Arseny Gonchukov",
+        "Match": "Arseniy Gonchukov",
+        "Id": "100001167789149",
+        "Score": 127.69357347454387
+    },
+    "226336": {
+        "Person": "Roman Desyatov",
+        "Match": "Roman Desyatov",
+        "Id": "100001894374063",
+        "Score": 10.000385480015211
+    },
+    "8467642": {
+        "Person": "Maria Provotorova",
+        "Match": "Maria Provotorova",
+        "Id": "100000472655059",
+        "Score": 13.446777925712897
+    },
+    "1554324": {
+        "Person": "Anastasia Shevtsova",
+        "Match": "Anastasia Shevtsova",
+        "Id": "1463373608",
+        "Score": 20.964324150144943
+    },
+    "10963279": {
+        "Person": "Denis Kuleshov",
+        "Match": "Denis Kuleshov",
+        "Id": "100000862592097",
+        "Score": 27.053547999842557
+    },
+    "145510": {
+        "Person": "Kira Perevoznikova",
+        "Match": "Kira Perevoznikova",
+        "Id": "100000877423965",
+        "Score": 81.66726983871587
+    },
+    "1209366": {
+        "Person": "Max Bobrov",
+        "Match": "Max Bobrov",
+        "Id": "100000701057533",
+        "Score": 53.573794675266555
+    },
+    "52059843": {
+        "Person": "Sasha Shantalova",
+        "Match": "Sasha Shantalova",
+        "Id": "100001436125834",
+        "Score": 17.08624486835714
+    },
+    "3586259": {
+        "Person": "Kira Chernysheva",
+        "Match": "Kira Chernysheva",
+        "Id": "100001389203487",
+        "Score": 11.111042429349812
+    },
+    "4471103": {
+        "Person": "Sergey Zhukov",
+        "Match": "Sergey Zhukov",
+        "Id": "1151986774",
+        "Score": 21.800555777175905
+    },
+    "179833235": {
+        "Person": "Max Fitch",
+        "Match": "Max Fitch",
+        "Id": "100004176488604",
+        "Score": 8.37425785184051
+    },
+    "154898410": {
+        "Person": "Nadia Glagoleva",
+        "Match": "Nadya Glagoleva",
+        "Id": "100001349190514",
+        "Score": 3.2864816938861314
+    },
+    "1690030": {
+        "Person": "Andrey Moysenko",
+        "Match": "Andrey Moysenko",
+        "Id": "100001744692233",
+        "Score": 20.589498173715203
+    },
+    "16333366": {
+        "Person": "Oxana Korobko",
+        "Match": "Oxana Korobko",
+        "Id": "1198990792",
+        "Score": 18.373229616868105
+    },
+    "2356336": {
+        "Person": "Natasha Sergutina",
+        "Match": "Natasha Sergutina",
+        "Id": "1443217362",
+        "Score": 17.065769578165174
+    },
+    "7319803": {
+        "Person": "Ksenia Kashpur",
+        "Match": "Kseniya Kashpur",
+        "Id": "100001608274677",
+        "Score": 27.192828573232426
+    },
+    "10705584": {
+        "Person": "Kirill Artemov",
+        "Match": "Kirill Artemov",
+        "Id": "100001075008554",
+        "Score": 8.71096342157151
+    },
+    "11423510": {
+        "Person": "Maria Tarasova",
+        "Match": "Maria Tarasova",
+        "Id": "100001612797282",
+        "Score": 5.241883210294121
+    },
+    "152559446": {
+        "Person": "Ramil Alimov",
+        "Match": "Ramil\u2019 Alimov",
+        "Id": "100002129441151",
+        "Score": 20.992912696166005
+    },
+    "3816530": {
+        "Person": "Alexey Zarubin",
+        "Match": "Alexey Zarubin",
+        "Id": "100000810638784",
+        "Score": 25.37258988960308
+    },
+    "925552": {
+        "Person": "Dzhamilya Shaykhutdinova",
+        "Match": "Dzhamilya Shaykhutdinova",
+        "Id": "100000800005967",
+        "Score": 49.268893494406974
+    },
+    "7883307": {
+        "Person": "Natalya Androsenko",
+        "Match": "Natal\u2019ya Androsenko",
+        "Id": "1538450942",
+        "Score": 12.270261881122352
+    },
+    "10337544": {
+        "Person": "Alexandra Andrianova",
+        "Match": "Alexandra Andrianova",
+        "Id": "100001346620218",
+        "Score": 8.939110676484123
+    },
+    "99106128": {
+        "Person": "Yulia Galkina",
+        "Match": "Yulia Galkina",
+        "Id": "1483478636",
+        "Score": 30.759476806911096
+    },
+    "9682268": {
+        "Person": "Yury Sergeev",
+        "Match": "Yuriy Sergeyev",
+        "Id": "100002127570236",
+        "Score": 3.926110673973098
+    },
+    "7135": {
+        "Person": "Elena Nedbaeva",
+        "Match": "Elena Nedbaeva",
+        "Id": "663488057",
+        "Score": 29.22765961176205
+    },
+    "1553210": {
+        "Person": "Alexander Mishura",
+        "Match": "Alexander Mishura",
+        "Id": "100002085335310",
+        "Score": 25.415169561075455
+    },
+    "48161924": {
+        "Person": "Lyolya Lyolkovna",
+        "Match": "Lyolya Lyolkovna",
+        "Id": "100000773935138",
+        "Score": 9.831253739728595
+    },
+    "7487262": {
+        "Person": "Igor Bartashov",
+        "Match": "Igor Bartashov",
+        "Id": "100001409831431",
+        "Score": 10.878933376579004
+    },
+    "2224210": {
+        "Person": "Maxim Babaev",
+        "Match": "Maxim Babaev",
+        "Id": "100001720277387",
+        "Score": 80.90795656229577
+    },
+    "3568962": {
+        "Person": "Alexander Chernyshkov",
+        "Match": "Alexander Chernyshkov",
+        "Id": "100000492327383",
+        "Score": 29.00844406954219
+    },
+    "127114": {
+        "Person": "Darya Zheleznyakova",
+        "Match": "Dar\u2019ya Zheleznyakova",
+        "Id": "100002199444381",
+        "Score": 77.73052684014917
+    },
+    "6430722": {
+        "Person": "Anna Selyanina",
+        "Match": "Anna Selyanina",
+        "Id": "1650631061",
+        "Score": 7.420112416286055
+    },
+    "39862754": {
+        "Person": "Ekaterina Samedova",
+        "Match": "Ekaterina Samedova",
+        "Id": "100001933883605",
+        "Score": 7.127352737770563
+    },
+    "9028071": {
+        "Person": "Kristina Anisenko",
+        "Match": "Kristina Anisenko",
+        "Id": "100000783608378",
+        "Score": 21.602383316547307
+    },
+    "17154881": {
+        "Person": "Kirill Grekov",
+        "Match": "Kirill Grekov",
+        "Id": "100003492495150",
+        "Score": 7.845888626256914
+    },
+    "2245649": {
+        "Person": "Andrey Braginsky",
+        "Match": "Andrey Braginskiy",
+        "Id": "100001747277412",
+        "Score": 70.36617246968682
+    },
+    "2115174": {
+        "Person": "Sergey Zaytsev",
+        "Match": "Sergey Zaitsev",
+        "Id": "100000059307026",
+        "Score": 3.9617090713862124
+    },
+    "154158788": {
+        "Person": "Kirill Golubev",
+        "Match": "Kirill Golubev",
+        "Id": "100000568985939",
+        "Score": 9
+    },
+    "1427147": {
+        "Person": "Vasily Rusanov",
+        "Match": "Vasily Rusanov",
+        "Id": "1053405449",
+        "Score": 48.09859102356063
+    },
+    "679287": {
+        "Person": "Irina Nizkina",
+        "Match": "Irina Nizkina",
+        "Id": "100003271051589",
+        "Score": 23.80010496385364
+    },
+    "3062317": {
+        "Person": "Darya Medvedeva",
+        "Match": "Dar\u2019ya Medvedeva",
+        "Id": "100002258509524",
+        "Score": 11.149490417522355
+    },
+    "902953": {
+        "Person": "Tatyana Drozdova",
+        "Match": "Tatyana Drozdova",
+        "Id": "732384679",
+        "Score": 31.935299584711665
+    },
+    "57100134": {
+        "Person": "Oleg Askarov",
+        "Match": "Oleg Askarov",
+        "Id": "100000908045760",
+        "Score": 4.4832107296628525
+    },
+    "1165358": {
+        "Person": "Yury Rabodzey",
+        "Match": "Yury Rabodzey",
+        "Id": "100003658757491",
+        "Score": 15.921606714297207
+    },
+    "18237553": {
+        "Person": "Zhanna Bogdashina",
+        "Match": "Zhanna Bogdashina",
+        "Id": "100000938082383",
+        "Score": 13.192205672808562
+    },
+    "3148848": {
+        "Person": "Lera Malera",
+        "Match": "Lera Malera",
+        "Id": "100000022545724",
+        "Score": 11.716466496898104
+    },
+    "2690260": {
+        "Person": "Anastasia Krymskaya",
+        "Match": "Anastasia Krymskaya",
+        "Id": "100000698458894",
+        "Score": 18.85263756984371
+    },
+    "117203357": {
+        "Person": "Alexandra Ryabinina",
+        "Match": "Alexandra Ryabinina",
+        "Id": "100003703395340",
+        "Score": 8.432560985709216
+    },
+    "5360314": {
+        "Person": "Vitaly Antipov",
+        "Match": "Vitaliy Antipov",
+        "Id": "100001114321351",
+        "Score": 8.724950461040706
+    },
+    "2843087": {
+        "Person": "Olesya Reztsova",
+        "Match": "Olesya Reztsova",
+        "Id": "100001778615067",
+        "Score": 24.443881024900865
+    },
+    "1985250": {
+        "Person": "Nastya Kuznetsova",
+        "Match": "Nastya Kuznetsova",
+        "Id": "1014504946",
+        "Score": 17.2582512508495
+    },
+    "14928711": {
+        "Person": "Olga Gorbacheva",
+        "Match": "Ol\u2019ga Gorbacheva",
+        "Id": "100000999680758",
+        "Score": 17.390588810294393
+    },
+    "123393": {
+        "Person": "Alla Suvorova",
+        "Match": "Alla Suvorova",
+        "Id": "1813363957",
+        "Score": 52.30065452925839
+    },
+    "9063477": {
+        "Person": "Anya Chemrova",
+        "Match": "Anya Chemrova",
+        "Id": "100001111395778",
+        "Score": 6.3574171083159605
+    },
+    "2870459": {
+        "Person": "Tatyana Vorontsova",
+        "Match": "Tat\u2019yana Vorontsova",
+        "Id": "1440864325",
+        "Score": 51.65070553700521
+    },
+    "767870": {
+        "Person": "Maxim Lunev",
+        "Match": "Maxim Lunev",
+        "Id": "100001556835874",
+        "Score": 29.07298140429931
+    },
+    "653186": {
+        "Person": "Danila Melnikov",
+        "Match": "Danila Melnikov",
+        "Id": "100001086558155",
+        "Score": 20.67947330245105
+    },
+    "2936086": {
+        "Person": "Tatyana Borodina",
+        "Match": "Tat\u2019yana Borodina",
+        "Id": "100000093644143",
+        "Score": 14.938980399457453
+    },
+    "729673": {
+        "Person": "Valeria Kiseleva",
+        "Match": "Valeria Kiseleva",
+        "Id": "100000210336832",
+        "Score": 13.707113054910158
+    },
+    "249318": {
+        "Person": "Marina Panina",
+        "Match": "Marina Panina",
+        "Id": "100004000628446",
+        "Score": 12.452380241626312
+    },
+    "5754488": {
+        "Person": "Vitaly Ryzhkov",
+        "Match": "Vitaliy Ryzhkov",
+        "Id": "100001209230398",
+        "Score": 3.617969978745512
+    },
+    "109210652": {
+        "Person": "Mikhail Shin",
+        "Match": "Mikhail Shin",
+        "Id": "641907026",
+        "Score": 86.52138214780442
+    },
+    "1134373": {
+        "Person": "Olga Ravinskaya",
+        "Match": "Olga Ravinskaya",
+        "Id": "100005402611988",
+        "Score": 36.688960310237356
+    },
+    "839585": {
+        "Person": "Mikhail Bashirov",
+        "Match": "Mikhail Bashirov",
+        "Id": "100000946058047",
+        "Score": 3.296369913017609
+    },
+    "380902": {
+        "Person": "Ivan Lavrentyev",
+        "Match": "Ivan Lavrentiev",
+        "Id": "100001729835046",
+        "Score": 24.732110310680497
+    },
+    "8540200": {
+        "Person": "Yulia Dementyeva",
+        "Match": "Yuliya Dement\u2019yeva",
+        "Id": "100001772312152",
+        "Score": 4.344466610665135
+    },
+    "6480562": {
+        "Person": "Alevtina Vinogradova",
+        "Match": "Alevtina Vinogradova",
+        "Id": "100000257280657",
+        "Score": 28.301551372960432
+    },
+    "3821624": {
+        "Person": "Olga Elkina",
+        "Match": "Olga Elkina",
+        "Id": "100001476408990",
+        "Score": 27.07384163468305
+    },
+    "13166260": {
+        "Person": "Maria Petkova",
+        "Match": "Mariya Petkova",
+        "Id": "1468283776",
+        "Score": 8.007744331994097
+    },
+    "5806589": {
+        "Person": "Lyuba Petrova",
+        "Match": "Lyuba Petrova",
+        "Id": "100001216750907",
+        "Score": 11.460885644662756
+    },
+    "11491845": {
+        "Person": "Alina Lukyanchikova",
+        "Match": "Alina Lukyanchikova",
+        "Id": "100000037552354",
+        "Score": 21.913697152113986
+    },
+    "119122": {
+        "Person": "Elena Rusova",
+        "Match": "Elena Rusova",
+        "Id": "100003925201658",
+        "Score": 3.571020037432885
+    },
+    "7942486": {
+        "Person": "Evgeny Markin",
+        "Match": "Evgeny Markin",
+        "Id": "704091690",
+        "Score": 4.151066361674643
+    },
+    "1364412": {
+        "Person": "Natali Berdnicova",
+        "Match": "Natalia Berdnikova",
+        "Id": "100000573224460",
+        "Score": 4.5840437275111645
+    },
+    "6345189": {
+        "Person": "Irina Mastyaeva",
+        "Match": "Irina Mastyaeva",
+        "Id": "100001633259033",
+        "Score": 21.889695610729383
+    },
+    "2788780": {
+        "Person": "Ann Shebek",
+        "Match": "Ann Shebek",
+        "Id": "1358906381",
+        "Score": 26.417341280100327
+    },
+    "44749476": {
+        "Person": "Maria Rogacheva",
+        "Match": "Mariya Rogacheva",
+        "Id": "100000158495955",
+        "Score": 7.996917269930919
+    },
+    "52515526": {
+        "Person": "Ksenia Fedyukina",
+        "Match": "Kseniya Fedyukina",
+        "Id": "100002658896518",
+        "Score": 10.733938812994612
+    },
+    "20456228": {
+        "Person": "Sofya Danilova",
+        "Match": "Sofya Danilova",
+        "Id": "100003364168169",
+        "Score": 11.952634529617136
+    },
+    "5952822": {
+        "Person": "Anita Moiseeva",
+        "Match": "Anita Moiseeva",
+        "Id": "100002662093861",
+        "Score": 44.243946394147265
+    },
+    "1659687": {
+        "Person": "Maxim Matsarin",
+        "Match": "Maxim Matsarin",
+        "Id": "100002406563166",
+        "Score": 20.76657997259041
+    },
+    "8835928": {
+        "Person": "Lidia Antonova",
+        "Match": "Lidiya Antonova",
+        "Id": "100000513207908",
+        "Score": 17.820177790341294
+    },
+    "545704": {
+        "Person": "Anton Bozhko",
+        "Match": "Anton Bozhko",
+        "Id": "100002028631305",
+        "Score": 15.08140166003412
+    },
+    "38823121": {
+        "Person": "Evgeny Ryzhkov",
+        "Match": "Evgeny Ryzhkov",
+        "Id": "100004159120379",
+        "Score": 8.325574644187398
+    },
+    "1587372": {
+        "Person": "Ivan Gruzdev",
+        "Match": "Ivan Gruzdev",
+        "Id": "1417196333",
+        "Score": 100.53247613909315
+    },
+    "2947485": {
+        "Person": "Elizaveta Sokolova",
+        "Match": "Elizaveta Sokolova",
+        "Id": "100000965114009",
+        "Score": 12.606484145746448
+    },
+    "1778546": {
+        "Person": "Vlada Chernova",
+        "Match": "Vlada Chernova",
+        "Id": "100001346053798",
+        "Score": 16.23077085107781
+    },
+    "173309284": {
+        "Person": "Darya Butareva",
+        "Match": "Daria Butareva",
+        "Id": "100002831065710",
+        "Score": 6.620711353346938
+    },
+    "40293855": {
+        "Person": "Andrey Lisitsyn",
+        "Match": "Andrey Lisitsyn",
+        "Id": "100002715109835",
+        "Score": 4.027169941196146
+    },
+    "15661321": {
+        "Person": "Natalya Berezovaya",
+        "Match": "Natalia berezovaya",
+        "Id": "100002327563720",
+        "Score": 7.240299182149355
+    },
+    "907045": {
+        "Person": "Ilya Mutovin",
+        "Match": "Ilya Mutovin",
+        "Id": "823443816",
+        "Score": 57.762089463187415
+    },
+    "153844435": {
+        "Person": "Darya Surzhan",
+        "Match": "Daria Surzhan",
+        "Id": "100001239266339",
+        "Score": 7.082268971739899
+    },
+    "1273005": {
+        "Person": "Alina Korotkova",
+        "Match": "Alina Korotkova",
+        "Id": "100002571427875",
+        "Score": 36.116020428034105
+    },
+    "142631090": {
+        "Person": "Anya Suntsova",
+        "Match": "Anna Suntsova",
+        "Id": "100000555901509",
+        "Score": 14.526857337104143
+    },
+    "2545693": {
+        "Person": "Marat Fayzullin",
+        "Match": "Marat Fayzullin",
+        "Id": "100001927899542",
+        "Score": 35.744937908737846
+    },
+    "1401875": {
+        "Person": "Igor Gurkov",
+        "Match": "Igor Gurkov",
+        "Id": "100000418958784",
+        "Score": 27.28394427947685
+    },
+    "52779125": {
+        "Person": "Alexander Vasilyev",
+        "Match": "Alexander Vasiliev",
+        "Id": "1841921828",
+        "Score": 6.313254930855769
+    },
+    "53631442": {
+        "Person": "Elena Bazina",
+        "Match": "Elena Bazina",
+        "Id": "100004001818381",
+        "Score": 16.014612167119658
+    },
+    "1825453": {
+        "Person": "Nikita Surkov",
+        "Match": "Nikita Surkov",
+        "Id": "100004465302127",
+        "Score": 15.485709511362069
+    },
+    "613124": {
+        "Person": "Marina Artyukh",
+        "Match": "Marina Artyukh",
+        "Id": "100000547123091",
+        "Score": 3.5934468390608743
+    },
+    "1956645": {
+        "Person": "Natalya Filinova",
+        "Match": "Natalia Filinova",
+        "Id": "1589707384",
+        "Score": 6.556935295141081
+    },
+    "809783": {
+        "Person": "Maria Savelyeva",
+        "Match": "Maria Savelieva",
+        "Id": "100000877545280",
+        "Score": 3.0761011132564313
+    },
+    "1924087": {
+        "Person": "Anastasia Volkova",
+        "Match": "Anastasia Volkova",
+        "Id": "100002768774562",
+        "Score": 17.270989329513824
+    },
+    "3562568": {
+        "Person": "Roman Botov",
+        "Match": "Roman Botov",
+        "Id": "100001518678186",
+        "Score": 4
+    },
+    "10970305": {
+        "Person": "Yulia Tikhonova",
+        "Match": "Yulia Tihonova",
+        "Id": "1094225560",
+        "Score": 6.759021972606305
+    },
+    "5954914": {
+        "Person": "Evgeny Parshin",
+        "Match": "Evgeny Parshin",
+        "Id": "100001042010522",
+        "Score": 4
+    },
+    "225570": {
+        "Person": "Antonina Guseva",
+        "Match": "Antonina Guseva",
+        "Id": "100000777158134",
+        "Score": 17.578714464513638
+    },
+    "613843": {
+        "Person": "Natalya Maloshonok",
+        "Match": "Natal\u2019ya Maloshonok",
+        "Id": "100000809460817",
+        "Score": 16.42744469261813
+    },
+    "384476": {
+        "Person": "Andrey Dzyuba",
+        "Match": "Andrey Dzuba",
+        "Id": "100001262032753",
+        "Score": 169.5578979145777
+    },
+    "56844050": {
+        "Person": "Tatyana Spasskaya",
+        "Match": "Tat\u2019yana Spasskaya",
+        "Id": "100001489207432",
+        "Score": 3.8879623980322586
+    },
+    "2869031": {
+        "Person": "Zoya Perlova",
+        "Match": "Zoya Perlova",
+        "Id": "100000456926406",
+        "Score": 132.4039360025848
+    },
+    "3608588": {
+        "Person": "Elena Kirsanova",
+        "Match": "Elena Kirsanova",
+        "Id": "100000723764986",
+        "Score": 12.149901044374896
+    },
+    "5741435": {
+        "Person": "Anna Vybornova",
+        "Match": "Anna Vybornova",
+        "Id": "100001976166580",
+        "Score": 44.405768080977744
+    },
+    "2744491": {
+        "Person": "Denis Polyakov",
+        "Match": "Denis Polyakov",
+        "Id": "1467613902",
+        "Score": 6
+    },
+    "7302669": {
+        "Person": "Tatyana Novikova",
+        "Match": "Tatiana Novikova",
+        "Id": "100001806300272",
+        "Score": 12.428805915523911
+    },
+    "811366": {
+        "Person": "Mikhail Melnikov",
+        "Match": "Mikhail Mel\u2019nikov",
+        "Id": "100001521436893",
+        "Score": 10.803050881559246
+    },
+    "17097306": {
+        "Person": "Nika Denisova",
+        "Match": "Nika Denisova",
+        "Id": "100000735438113",
+        "Score": 36.821533146905544
+    },
+    "7267276": {
+        "Person": "Yury Sozonov",
+        "Match": "Yuriy Sozonov",
+        "Id": "100000968848198",
+        "Score": 40.67593009894214
+    },
+    "16933941": {
+        "Person": "Anton Kolesnikov",
+        "Match": "Anton Kolesnikov",
+        "Id": "100002151726378",
+        "Score": 16.541042681579
+    },
+    "418932": {
+        "Person": "Sergey Andreev",
+        "Match": "Sergey Andreev",
+        "Id": "100004543092591",
+        "Score": 21.98996234031182
+    },
+    "1091097": {
+        "Person": "Yulia Peltinovich",
+        "Match": "Yulia Peltinovich",
+        "Id": "1503649361",
+        "Score": 39.207218205655224
+    },
+    "2680097": {
+        "Person": "Evgeny Nekryukov",
+        "Match": "Evgeny Nekryukov",
+        "Id": "100001352422499",
+        "Score": 4.111357047849664
+    },
+    "1107360": {
+        "Person": "Mikhail Kurashov",
+        "Match": "Mikhail Kurashov",
+        "Id": "1438846783",
+        "Score": 71.22024692787062
+    },
+    "11243764": {
+        "Person": "Nadezhda Chekasina",
+        "Match": "Nadezhda Chekasina",
+        "Id": "100002668111826",
+        "Score": 15.462230086746276
+    },
+    "1129383": {
+        "Person": "Konstantin Danilov",
+        "Match": "Konstantin Danilov",
+        "Id": "1694550358",
+        "Score": 8.811126935182495
+    },
+    "23651870": {
+        "Person": "Yury Golban",
+        "Match": "Yuri Golban",
+        "Id": "1055634431",
+        "Score": 6.099315471192382
+    },
+    "13887073": {
+        "Person": "Konstantin Kuzhanov",
+        "Match": "Konstantin Kuzhanov",
+        "Id": "100000290710729",
+        "Score": 61.36302819529806
+    },
+    "1631846": {
+        "Person": "Alexander Romanov",
+        "Match": "Alexander Romanov",
+        "Id": "100002388197314",
+        "Score": 123.59083808309268
+    },
+    "2745974": {
+        "Person": "Ilya Nikanorov",
+        "Match": "Ilya Nikanorov",
+        "Id": "100000924678865",
+        "Score": 102.67723401532614
+    },
+    "8507443": {
+        "Person": "Varvara Karpova",
+        "Match": "Varvara Karpova",
+        "Id": "1113473968",
+        "Score": 61.28625684384762
+    },
+    "59011": {
+        "Person": "Anna Volgina",
+        "Match": "Anna Volgina",
+        "Id": "277702072",
+        "Score": 31.977238560139476
+    },
+    "124779": {
+        "Person": "Nadezhda Voronkova",
+        "Match": "Nadezhda Voronkova",
+        "Id": "100000063351219",
+        "Score": 63.81848605396234
+    },
+    "52979657": {
+        "Person": "Anastasia Shubenkova",
+        "Match": "Anastasiya Shubenkova",
+        "Id": "100001034352904",
+        "Score": 16.20527927606185
+    },
+    "6907958": {
+        "Person": "Mikhail Akulov",
+        "Match": "Mikhail Akulov",
+        "Id": "100001998222306",
+        "Score": 4.038914268354508
+    },
+    "90614886": {
+        "Person": "Marusyan Vatrushkina",
+        "Match": "Marusyan Vatrushkina",
+        "Id": "100001479802623",
+        "Score": 12.354025080808517
+    },
+    "900119": {
+        "Person": "Vladimir Segalov",
+        "Match": "Vladimir Segalov",
+        "Id": "1229194424",
+        "Score": 8.593482070755458
+    },
+    "16492245": {
+        "Person": "Nikolay Petrov",
+        "Match": "Nikolai Petrov",
+        "Id": "100001449864004",
+        "Score": 7.943273985231604
+    },
+    "157971": {
+        "Person": "Dmitry Ukraintsev",
+        "Match": "Dmitry Ukraintsev",
+        "Id": "100002356595756",
+        "Score": 13.286904199243502
+    },
+    "153397417": {
+        "Person": "Darya Medvedeva",
+        "Match": "Dar\u2019ya Medvedeva",
+        "Id": "100002258509524",
+        "Score": 14.623981151533561
+    },
+    "137406174": {
+        "Person": "Alisa Luzgina",
+        "Match": "Alisa Luzgina",
+        "Id": "100001414063942",
+        "Score": 31.58091101246272
+    },
+    "77916530": {
+        "Person": "Marina Fadeeva",
+        "Match": "Marina Fadeeva",
+        "Id": "100001664229070",
+        "Score": 32.08661967423879
+    },
+    "106948981": {
+        "Person": "Vsevolod Belchenko",
+        "Match": "Vsevolod Bel\u2019chenko",
+        "Id": "100001084504185",
+        "Score": 5.022217568088679
+    },
+    "166990248": {
+        "Person": "Alena Chepyzhova",
+        "Match": "Alena Chepyzhova",
+        "Id": "100000123062212",
+        "Score": 6.334840457624338
+    },
+    "27407": {
+        "Person": "Anna Kozlovskaya",
+        "Match": "Anna Kozlovskaya",
+        "Id": "100000670898180",
+        "Score": 41.754640169489626
+    },
+    "10814084": {
+        "Person": "Vyacheslav Musolov",
+        "Match": "Vyacheslav Musolov",
+        "Id": "100000961927444",
+        "Score": 23.891066324079958
+    },
+    "42765574": {
+        "Person": "Alexander Yarovoy",
+        "Match": "Alexander Yarovoy",
+        "Id": "100000506535259",
+        "Score": 48.432926700888814
+    },
+    "9628473": {
+        "Person": "Yana Lupandina",
+        "Match": "Yana Lupandina",
+        "Id": "100001397650155",
+        "Score": 13.74217645150518
+    },
+    "1633200": {
+        "Person": "Sergey Staroverov",
+        "Match": "Sergey Staroverov",
+        "Id": "100002118579200",
+        "Score": 11.626953798412277
+    },
+    "69434544": {
+        "Person": "Anna Surova",
+        "Match": "Anna Surova",
+        "Id": "100000186925458",
+        "Score": 14.535114036374507
+    },
+    "25062555": {
+        "Person": "Boris Demeshev",
+        "Match": "Boris Demeshev",
+        "Id": "731717322",
+        "Score": 18.826698538152215
+    },
+    "18312351": {
+        "Person": "Dmitry Sionov",
+        "Match": "Dmitry Sionov",
+        "Id": "1288164791",
+        "Score": 33.94816872513058
+    },
+    "3501402": {
+        "Person": "Regina Resheteeva",
+        "Match": "Regina Resheteeva",
+        "Id": "100001825812349",
+        "Score": 22.08837139879022
+    },
+    "19754495": {
+        "Person": "Ivan Shidlovsky",
+        "Match": "Ivan Shidlovskiy",
+        "Id": "100001402618196",
+        "Score": 4.137994662961
+    },
+    "126516": {
+        "Person": "Anna Turulina",
+        "Match": "Anna Turulina",
+        "Id": "732964458",
+        "Score": 4
+    },
+    "2748024": {
+        "Person": "Alexandra Kuzovkova",
+        "Match": "Alexandra Kuzovkova",
+        "Id": "100000836334842",
+        "Score": 24.167905263692465
+    },
+    "1273487": {
+        "Person": "Tatanka Iyotake",
+        "Match": "Tatanka Iyotake",
+        "Id": "100002186401263",
+        "Score": 7.512171324018889
+    },
+    "2223897": {
+        "Person": "Igor Bashurov",
+        "Match": "Igor Bashurov",
+        "Id": "100001039824827",
+        "Score": 135.78463003848057
+    },
+    "4461189": {
+        "Person": "Anastasia Kozhushko",
+        "Match": "Anastasia Kozhushko",
+        "Id": "100003634926659",
+        "Score": 33.48295880575471
+    },
+    "50589481": {
+        "Person": "Nastya Olkhova",
+        "Match": "Nastia Olkhova",
+        "Id": "100003316029130",
+        "Score": 11.957918433155111
+    },
+    "454721": {
+        "Person": "Igor Ponomarev",
+        "Match": "Igor\u2019 Ponomarev",
+        "Id": "100001652679480",
+        "Score": 14.187299342364252
+    },
+    "1209929": {
+        "Person": "Anya Reznikova",
+        "Match": "Anna Reznikova",
+        "Id": "100001655200801",
+        "Score": 17.455342983817914
+    },
+    "3141732": {
+        "Person": "Vyacheslav Lavrentyev",
+        "Match": "Viacheslav Lavrentyev",
+        "Id": "100001300621275",
+        "Score": 37.59222692410235
+    },
+    "61572": {
+        "Person": "Irina Bulygina",
+        "Match": "Irina Bulygina",
+        "Id": "706133283",
+        "Score": 66.68366568627916
+    },
+    "454912": {
+        "Person": "Darya Kosova",
+        "Match": "Daria Kosova",
+        "Id": "100000431753566",
+        "Score": 56.81936650367372
+    },
+    "87323009": {
+        "Person": "Yana Grishkova",
+        "Match": "Yana Grishkova",
+        "Id": "100000874448053",
+        "Score": 8.35628127332231
+    },
+    "258435": {
+        "Person": "Anna Pervushina",
+        "Match": "Ann Pervushina",
+        "Id": "100000585720301",
+        "Score": 332.5947410233801
+    },
+    "102415775": {
+        "Person": "Smart Step",
+        "Match": "Smart Step",
+        "Id": "100001993214016",
+        "Score": 58.3510046831661
+    },
+    "4518395": {
+        "Person": "Egor Polyakov",
+        "Match": "Egor Polyakov",
+        "Id": "100001402424346",
+        "Score": 10.191470548541773
+    },
+    "613096": {
+        "Person": "Anton Ivanov",
+        "Match": "Anton Ivanov",
+        "Id": "100000176428600",
+        "Score": 53.979208928049346
+    },
+    "20206347": {
+        "Person": "Natalya Trofimova",
+        "Match": "Natalia Trofimova",
+        "Id": "1534164361",
+        "Score": 19.75701970242324
+    },
+    "23399811": {
+        "Person": "Ksenia Katurova",
+        "Match": "Kseniya Katurova",
+        "Id": "100000589951254",
+        "Score": 61.28432350496027
+    },
+    "172421773": {
+        "Person": "Alexey Kalinin",
+        "Match": "Alexey Kalinin",
+        "Id": "100002712572085",
+        "Score": 11.366487772065513
+    },
+    "165737": {
+        "Person": "Sandro Metreveli",
+        "Match": "Sandro Metreveli",
+        "Id": "100000281268931",
+        "Score": 33.73701242027261
+    },
+    "4439696": {
+        "Person": "Maria Glazacheva",
+        "Match": "Maria Glazacheva",
+        "Id": "100004349744121",
+        "Score": 19.70749803943283
+    },
+    "2159411": {
+        "Person": "Vera Abelinskayte",
+        "Match": "Vera Abelinskayte",
+        "Id": "100001344959226",
+        "Score": 95.89407498201753
+    },
+    "15627159": {
+        "Person": "Tatyana Kovrigina",
+        "Match": "Tatiana Kovrigina",
+        "Id": "100001702097983",
+        "Score": 3.039448799799066
+    },
+    "848879": {
+        "Person": "Yulya Filatova",
+        "Match": "Yulya Filatova",
+        "Id": "100001880993746",
+        "Score": 140.527079279186
+    },
+    "1503741": {
+        "Person": "Anastasiya Zheleznaya",
+        "Match": "Anastasiya Zheleznaya",
+        "Id": "1359094552",
+        "Score": 4
+    },
+    "83194932": {
+        "Person": "Vladimir Neveykin",
+        "Match": "Vladimir Neveykin",
+        "Id": "100002359475933",
+        "Score": 23.888358472328274
+    },
+    "717901": {
+        "Person": "Anastasia Fedorova",
+        "Match": "Anastasiya Fedorova",
+        "Id": "100001538665849",
+        "Score": 15.258856259420886
+    },
+    "1406158": {
+        "Person": "Natalya Voropaeva",
+        "Match": "Natalia Voropaeva",
+        "Id": "100004477506404",
+        "Score": 18.89320479108754
+    },
+    "1144084": {
+        "Person": "Miroslav Kosar",
+        "Match": "Miroslav Kosar",
+        "Id": "100002274778453",
+        "Score": 19.658222815630314
+    },
+    "3339645": {
+        "Person": "Ivan Kamyshev",
+        "Match": "Ivan Kamyshev",
+        "Id": "100002790496850",
+        "Score": 26.264306444859976
+    },
+    "2651540": {
+        "Person": "Azat Khalilov",
+        "Match": "Azat Khalilov",
+        "Id": "100001752437231",
+        "Score": 9.134897369588742
+    },
+    "521642": {
+        "Person": "Nuria Gabdulkhakova",
+        "Match": "Nuriya Gabdulkhakova",
+        "Id": "100004060863066",
+        "Score": 4.785236478157209
+    },
+    "488900": {
+        "Person": "Sergey Ovchinnikov",
+        "Match": "Sergey Ovchinnikov",
+        "Id": "100002827223374",
+        "Score": 3.1075232775792423
+    },
+    "456175": {
+        "Person": "Ilya Vydumkin",
+        "Match": "Il\u2019ya Vydumkin",
+        "Id": "100000462947728",
+        "Score": 10.557859317723972
+    },
+    "5240314": {
+        "Person": "Darya Astakhova",
+        "Match": "Daria Astakhova",
+        "Id": "100004181619928",
+        "Score": 37.61355090371499
+    },
+    "53704224": {
+        "Person": "Maria Vaysman",
+        "Match": "Maria Vaisman",
+        "Id": "100002299541560",
+        "Score": 8.818102099264944
+    },
+    "15103534": {
+        "Person": "Ol\u2019ga Volkova",
+        "Match": "Olga Volkova",
+        "Id": "100000118092916",
+        "Score": 3.131625678516646
+    },
+    "816711": {
+        "Person": "Elena Vakulenko",
+        "Match": "Elena Vakulenko",
+        "Id": "100001305197724",
+        "Score": 37.23937143165117
+    },
+    "1898070": {
+        "Person": "Irina Belonosova",
+        "Match": "Irina Belonosova",
+        "Id": "100000036275492",
+        "Score": 52.20640005835666
+    },
+    "87353631": {
+        "Person": "Tatyana Ezzheva",
+        "Match": "Tatiana Ezzheva",
+        "Id": "511079950",
+        "Score": 5.5840166044731046
+    },
+    "1537794": {
+        "Person": "Dasha Malyutina",
+        "Match": "Dasha Malyutina",
+        "Id": "100001482111340",
+        "Score": 21.21091681064945
+    },
+    "4543451": {
+        "Person": "Elizaveta Andreevna",
+        "Match": "Elizaveta Andreevna",
+        "Id": "100005477531524",
+        "Score": 18.690061195092433
+    },
+    "21353447": {
+        "Person": "Emilia Lityagina",
+        "Match": "Emiliya Lityagina",
+        "Id": "100000850573349",
+        "Score": 5.453718944144507
+    },
+    "2881398": {
+        "Person": "Nikolay Saperov",
+        "Match": "Nikolay Saperov",
+        "Id": "100002535335955",
+        "Score": 3.747748521438427
+    },
+    "13432847": {
+        "Person": "Olga Avedova",
+        "Match": "Olga Avedova",
+        "Id": "100001660990051",
+        "Score": 4.224522157217083
+    },
+    "1020145": {
+        "Person": "Alexandra Braynis",
+        "Match": "Alexandra Brainis",
+        "Id": "100000293074412",
+        "Score": 71.43315967603023
+    },
+    "33876345": {
+        "Person": "Sergey Belyaev",
+        "Match": "Sergey Belyayev",
+        "Id": "100002097909465",
+        "Score": 30.290706328233604
+    },
+    "32100986": {
+        "Person": "Alisa Nikitina",
+        "Match": "Alisa Nikitina",
+        "Id": "100002508170253",
+        "Score": 18.65679095426343
+    },
+    "2226409": {
+        "Person": "Valery Kizilov",
+        "Match": "Valeriy Kizilov",
+        "Id": "1382803407",
+        "Score": 22.51033001350449
+    },
+    "193362216": {
+        "Person": "Evgenia Rastashanskaya",
+        "Match": "Evgenia Rastashanskaya",
+        "Id": "100000413635524",
+        "Score": 14.316657269662834
+    },
+    "24148276": {
+        "Person": "Yana Kozlova",
+        "Match": "Yana Kozlova",
+        "Id": "100001638794314",
+        "Score": 19.8760454366344
+    },
+    "14286568": {
+        "Person": "Dmitry Romanov",
+        "Match": "Dmitry Romanov",
+        "Id": "100000533109700",
+        "Score": 4.241978795640198
+    },
+    "63980": {
+        "Person": "Nadezhda Tarasova",
+        "Match": "Nadezhda Tarasova",
+        "Id": "100000566417471",
+        "Score": 87.79081227927061
+    },
+    "166459908": {
+        "Person": "Andrey Sobkalov",
+        "Match": "Andrey Sobkalov",
+        "Id": "100004864951093",
+        "Score": 10.152992911166084
+    },
+    "96854": {
+        "Person": "Ekaterina Denisova",
+        "Match": "Ekaterina Denisova",
+        "Id": "583756467",
+        "Score": 46.79103853950724
+    },
+    "817812": {
+        "Person": "Alexey Markov",
+        "Match": "Alexey Markov",
+        "Id": "100003101550119",
+        "Score": 4.544740083315907
+    },
+    "44252918": {
+        "Person": "Sergey Ilupin",
+        "Match": "Sergey Ilupin",
+        "Id": "100001146828451",
+        "Score": 67.6228440563261
+    },
+    "916288": {
+        "Person": "Viktor Shorzhin",
+        "Match": "Viktor Shorzhin",
+        "Id": "100001742804045",
+        "Score": 23.803261512429227
+    },
+    "6323020": {
+        "Person": "Nastya Vikhanova",
+        "Match": "Nastya Vihanova",
+        "Id": "100000187069526",
+        "Score": 5
+    },
+    "1141234": {
+        "Person": "Ksenia Gagay",
+        "Match": "Ksenia Gagay",
+        "Id": "100001073228952",
+        "Score": 33.584820824537005
+    },
+    "131660759": {
+        "Person": "Maxim Savenko",
+        "Match": "Maxim Savenko",
+        "Id": "100003257857768",
+        "Score": 4
+    },
+    "16546839": {
+        "Person": "Sergey Limonov",
+        "Match": "Sergey Limonov",
+        "Id": "100000956044523",
+        "Score": 30.495969373880442
+    },
+    "818334": {
+        "Person": "Ira Meletova",
+        "Match": "Ira Meletova",
+        "Id": "100002248512213",
+        "Score": 69.88786494627301
+    },
+    "720208": {
+        "Person": "Anya Tolstykh",
+        "Match": "Anna Tolstykh",
+        "Id": "100001803726471",
+        "Score": 51.42469514184299
+    },
+    "16186888": {
+        "Person": "Anna Lazareva",
+        "Match": "Anna Lazareva",
+        "Id": "100002084262245",
+        "Score": 19.68126545432133
+    },
+    "92356524": {
+        "Person": "Darya Selivanova",
+        "Match": "Darya Selivanova",
+        "Id": "100000787593896",
+        "Score": 8.747132772796025
+    },
+    "35978784": {
+        "Person": "Irina Rybina",
+        "Match": "Irina Rybina",
+        "Id": "100000018298428",
+        "Score": 41.92599655591204
+    },
+    "2588215": {
+        "Person": "Ksenia Azhevskaya",
+        "Match": "Ksenia Azhevskaya",
+        "Id": "100001813637195",
+        "Score": 45.77195546709113
+    },
+    "196165": {
+        "Person": "Andrey Leykin",
+        "Match": "Andrey Leykin",
+        "Id": "100001779334165",
+        "Score": 47.43119425320326
+    },
+    "135331692": {
+        "Person": "Viktoria Bessonova",
+        "Match": "Victoria Bessonova",
+        "Id": "100001346097974",
+        "Score": 15.86038950807479
+    },
+    "2818029": {
+        "Person": "Maxim Dreval",
+        "Match": "Maxim DReval",
+        "Id": "100000391625260",
+        "Score": 3.489835046411637
+    }
+}

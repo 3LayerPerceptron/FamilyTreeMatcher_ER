@@ -1,45 +1,13 @@
 import json
 import time
 import itertools
-from iuliia import BGN_PCGN
 import multiprocessing as mp
 from Levenshtein import distance
 
-FB_PATH = "./data/fb-friend-names-hse.txt/hse_fb-friend-names-hse.txt"
-VK_PATH = "./data/vk-friend-names-hse.txt/hse_vk-friend-names-hse.txt"
+FB_DATASET_PATH = "./data/fb_dataset.json"
+VK_DATASET_PATH = "./data/vk_dataset.json"
 NAME_FREQS_PATH = "./statistics/name_freqs.json"
 SURNAME_FREQS_PATH = "./statistics/surname_freqs.json"
-
-def parse_VK_data(path, n_lines):
-    dataset = {}
-
-    with open(path) as input_file:
-        data = [json.loads(next(input_file)) for _ in range(n_lines)]
-    
-    for i in range(len(data)):
-        main_profile = data[i]["info"]
-        key = str((data[i]["_id"])).strip()
-
-        record = [[BGN_PCGN.translate(main_profile["name"]), BGN_PCGN.translate(main_profile["secName"])]] + \
-            [[BGN_PCGN.translate(person["name"]), BGN_PCGN.translate(person["secName"])] for person in data[i]["friends"]]
-        
-        if record != ["", ""]:
-            dataset[key] = record
-
-    return dataset
-
-def parse_FB_data(path, n_lines):
-    dataset = {}
-
-    with open(path) as input_file:
-        data = [next(input_file) for _ in range(n_lines)]
-    
-    for line in data:
-        splitted_line = line.split("|")
-        splitted_data = [BGN_PCGN.translate(entity).split()[1:] for entity in splitted_line]
-        dataset[splitted_line[0].split()[0]] = splitted_data
-    
-    return dataset
 
 class Matcher:
     
@@ -168,21 +136,24 @@ class Matcher:
 if __name__ == "__main__":
     
     start_time = time.time()
-    fb_dataset = parse_FB_data(FB_PATH, 4_429) # total users: 4429
-    vk_dataset = parse_VK_data(VK_PATH, 21_124) # total users: 21124
+    
+    with open(FB_DATASET_PATH) as fb_dataset_file:
+        fb_dataset = json.load(fb_dataset_file)
+    with open(VK_DATASET_PATH) as vk_dataset_file:
+        vk_dataset = json.load(vk_dataset_file)
+
     end_time = time.time()
-    print(f"data parsing was finished in: {(end_time - start_time):.2f} seconds")
+    print(f"data loading was finished in: {(end_time - start_time):.2f} seconds")
 
     start_time = time.time()
-    matcher = Matcher(fb_dataset, vk_dataset)
+    matcher = Matcher(vk_dataset, fb_dataset)
     end_time = time.time()
     print(f"matcher construction was finished in: {(end_time - start_time):.2f} seconds")
-    
+
     start_time = time.time()
     matcher.sieve_mp(n_proc=4)
     end_time = time.time()
-
-    print(f"sieving was finished in: {(end_time - start_time):.2f} seconds")
+    print(f"sieving was finished in: {(end_time - start_time):.2f} seconds with n_proc= 4")
     
     start_time = time.time()
     matcher.get_similarity()
