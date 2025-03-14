@@ -24,5 +24,5 @@ python3 -m pip install -r requirements.txt
 ### Step 3: Получение мэтчей
 После шага 2 запустите основной скрипт, который в формате json выдаст полученные мэтчи.
 ```
-python3 FTM_ER.py ./genotek_tree_1.json ./genotek_tree_2.json ./matches.json
+python3 FTM_ER.py <find matches for>.json <find matches in>.json <save matches to>.json
 ```
