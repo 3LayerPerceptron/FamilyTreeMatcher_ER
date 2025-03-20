@@ -1,2 +1,1 @@
-iuliia==0.13.0
 Levenshtein==0.26.1
